@@ -19,7 +19,7 @@ def url_updated(url):  # 判断远程远程链接是否已经更新
         status = resp.status_code
     except Exception:
         status = 404
-    if status == 200:
+    if status == 2000:
         url_updated = True
     else:
         url_updated = False
