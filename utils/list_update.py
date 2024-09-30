@@ -15,7 +15,7 @@ def url_updated(url):  # 判断远程远程链接是否已经更新
     s.mount('http://', HTTPAdapter(max_retries=2))
     s.mount('https://', HTTPAdapter(max_retries=2))
     try:
-        resp = s.get(url, timeout=4)
+        resp = s.get(url, timeout=40)
         status = resp.status_code
     except Exception:
         status = 404
