@@ -20,7 +20,7 @@ def read_json(file):  # 将 out.json 内容读取为列表
         #file_list = os.listdir("./")
         #print(file_list)
         print('Awaiting speedtest complete')
-        time.sleep(30)
+        time.sleep(3)
     with open(file, 'r', encoding='utf-8') as f:
         print('Reading out.json')
         proxies_all = json.load(f)["nodes"]
@@ -128,6 +128,6 @@ def output(list, num):
 
 
 if __name__ == '__main__':
-    num = 200
+    num = 99999
     value = read_json(out_json)
     output(value, value.__len__() if value.__len__() <= num else num)
