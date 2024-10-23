@@ -21,22 +21,10 @@ jobs:
       - name: Combine URL Contents
         run: |
           urls=(
-            "https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/vless"
-            "https://raw.githubusercontent.com/mfuu/v2ray/master/merge/merge_base64.txt"
-            "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray"
-            "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt"
-            "https://raw.githubusercontent.com/Flik6/getNode/main/v2ray.txt"
-            "https://raw.githubusercontent.com/mlabalabala/v2ray-node/main/nodefree_nodes_mod.txt"
-            "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/vmess.txt"
-            "https://raw.githubusercontent.com/Surfboardv2ray/Subs/main/Raw"
-            "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt"
-            "https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix"
-            "https://raw.githubusercontent.com/yebekhe/V2Hub/main/merged_base64"
-            "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed"
-            "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2"
-            "https://raw.githubusercontent.com/Syavar/V2ray-Configs/main/OK_google.com_base64.txt"
-            "https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/default.txt"
-            "https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/speed.txt"
+            "https://github.com/qjlxg/GO_V2rayCollector/raw/refs/heads/main/vless_iran.txt"
+            "https://github.com/qjlxg/GO_V2rayCollector/raw/refs/heads/main/trojan_iran.txt"
+            "https://github.com/qjlxg/GO_V2rayCollector/raw/refs/heads/main/ss_iran.txt"
+            "https://github.com/qjlxg/GO_V2rayCollector/raw/refs/heads/main/mixed_iran.txt"
           )
 
           > providers/providers
@@ -99,12 +87,10 @@ jobs:
       - name: Get IR Providers
         run: |
           links=(
-            "https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/submerge/IR.txt"
-            "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/ir/mixed"
-            "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/country/IR/base64"
-            "https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/master/providers/configshubIR"
-            "https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/location/base64/%F0%9F%87%AE%F0%9F%87%B7%20IR"
-            "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Iran/config.txt"
+           "https://github.com/qjlxg/GO_V2rayCollector/raw/refs/heads/main/vless_iran.txt"
+           "https://github.com/qjlxg/GO_V2rayCollector/raw/refs/heads/main/trojan_iran.txt"
+           "https://github.com/qjlxg/GO_V2rayCollector/raw/refs/heads/main/ss_iran.txt"
+           "https://github.com/qjlxg/GO_V2rayCollector/raw/refs/heads/main/mixed_iran.txt"
           )
       
           > providers/ir
