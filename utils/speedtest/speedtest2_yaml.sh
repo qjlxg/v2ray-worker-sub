@@ -4,4 +4,4 @@ gzip -d lite-linux-amd64.gz
 wget -O lite_config.json https://github.com/qjlxg/v2ray-worker-sub/raw/refs/heads/master/utils/speedtest/lite_config_yaml.json
 #运行 LiteSpeedTest
 chmod +x ./lite-linux-amd64
-sudo nohup ./lite-linux-amd64 --config ./lite_config.json --test https://raw.githubusercontent.com/Surfboardv2ray/Vfarid-fix/master/spd/sub_merge_yaml.yml > speedtest.log 2>&1 &
+sudo nohup ./lite-linux-amd64 --config ./lite_config.json --test https://github.com/qjlxg/v2ray-worker-sub/raw/refs/heads/master/spd/sub_merge_yaml.yml > speedtest.log 2>&1 &
