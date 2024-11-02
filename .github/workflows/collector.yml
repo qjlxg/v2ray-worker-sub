@@ -1,20 +1,22 @@
-name: Collect
+name: SpeedTest and Rename
 
 on:
-  workflow_dispatch:
-
   push:
+    branches:
+      - master
     paths:
       - "./EternityBase"
-      - "./sub/sub_merge_base64.txt"
-      - "./sub/sub_merge_yaml.yml"
+      - "./spd/sub_merge_base64.txt"
+      - "./spd/sub_merge_yaml.yml"
 
+  workflow_dispatch:
   schedule:
-    - cron: '0 */3 * * *'
+     - cron: '*/5 * * * *'
+   
 
 jobs:
   main:
-    name: Collect & SpeedTest & Filter
+    name: Gather & Speedtest
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -55,17 +57,25 @@ jobs:
           node ./utils/localserver/index.js &
           sleep 2
           python ./utils/list_merge.py
-      - name: Commit Changes
+      
+      - name: Check for Collector Changes
+        id: changes
+        run: |
+            git diff --quiet && echo 'No changes' || echo '::set-output name=changed::true'     
+      
+      - name: Commit Directory Changes
+        if: steps.changes.outputs.changed == 'true'
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git pull origin master
-          git add ./sub
+          git add ./spd
           git add ./utils/Country.mmdb
           git add README.md
           git checkout master
           git commit -m "✔️ $(date '+%Y-%m-%d %H:%M:%S') Collected"
-      - name: Push Changes
+      
+      - name: Push Directory Changes
         uses: ad-m/github-push-action@master
         with:
           branch: master
@@ -75,7 +85,13 @@ jobs:
           sleep 5
           sudo sh ./utils/speedtest/speedtest2_yaml.sh
           python ./utils/speedtest/output.py
-      - name: Commit changes
+      
+      - name: Check for Eternity Changes
+        id: changesE
+        run: |
+            git diff --quiet && echo 'No changes' || echo '::set-output name=changed::true'
+      - name: Commit Eternity changes
+        if: steps.changesE.outputs.changed == 'true'
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
@@ -83,10 +99,10 @@ jobs:
           git add EternityBase
           git add Eternity
           git add Eternity.txt
-          git add ./sub/sub_merge.txt
-          git add ./sub/sub_merge_base64.txt
+          git add ./spd/sub_merge.txt
+          git add ./spd/sub_merge_base64.txt
           git add LogInfo.txt
-          git add ./sub/splitted/*
+          git add ./spd/splitted/*
           git commit -m "✔️ $(date '+%Y-%m-%d %H:%M:%S') Tested"
       - name: Push Change
         uses: ad-m/github-push-action@master
@@ -100,7 +116,9 @@ jobs:
           tar -zxvf subconverter.tar.gz -C ./
           chmod +x ./subconverter/subconverter && nohup ./subconverter/subconverter >./subconverter.log 2>&1 &
           python ./utils/eternity_convert.py
-      - name: Commit changes
+      
+      
+      - name: Commit Final changes
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
@@ -112,6 +130,7 @@ jobs:
           git add LogInfo.txt
           git clean -f -d
           git commit -m "✔️ $(date '+%Y-%m-%d %H:%M:%S') Filtered"
+      
       - name: Push Change
         uses: ad-m/github-push-action@master
         with:
