@@ -342,7 +342,7 @@ class sub_convert():
                     'VI': '🇻🇮', 'VN': '🇻🇳', 'VU': '🇻🇺', 'WF': '🇼🇫',
                     'WS': '🇼🇸', 'XK': '🇽🇰', 'YE': '🇾🇪', 'YT': '🇾🇹',
                     'ZA': '🇿🇦', 'ZM': '🇿🇲', 'ZW': '🇿🇼',
-                    'RELAY': '🏁',
+                    'RELAY': '🌨️',
                     'NOWHERE': '🇦🇶',
                 }
 
@@ -829,7 +829,7 @@ class sub_convert():
 
 
 if __name__ == '__main__':
-    subscribe = 'https://cdn.jsdelivr.net/gh/Surfboardv2ray/vfarid-fix@master/spd/sub_merge.txt'
+    subscribe = ''
     output_path = './output.txt'
 
     content = sub_convert.main(subscribe, 'url', 'YAML')
