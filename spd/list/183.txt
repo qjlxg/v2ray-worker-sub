@@ -1,0 +1,70 @@
+  - {name: vm-ws-uscheap, server: 38.6.226.201, port: 8080, type: vmess, uuid: cb2ed08a-2595-43ee-9fe7-5bac03806603, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: cb2ed08a-2595-43ee-9fe7-5bac03806603-vm, headers: {Host: www.bing.com}}}
+  - {name: 🇺🇸 us-newjersey, server: 37.19.198.160, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇳🇱 nl, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks}
+  - {name: 🇬🇧 uk, server: 141.98.101.179, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇯🇵 japan, server: 149.22.87.240, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇺🇸 us, server: 37.19.198.160, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇬🇧 uk 2, server: 141.98.101.179, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇯🇵 jp, server: 149.22.87.240, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇺🇸 US, server: 34.216.240.225, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇯🇵 JP, server: 18.136.197.165, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇯🇵 JP 2, server: 13.250.25.159, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇭🇰 HK, server: 47.129.170.82, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇺🇸 US 2, server: 18.246.235.247, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇭🇰 HK 2, server: 54.95.5.168, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇯🇵 JP 3, server: 54.199.83.184, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇰🇷 KR, server: 52.221.255.53, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇨🇦 CA, server: 54.200.54.11, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG, server: 13.113.17.246, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇭🇰 HK 3, server: 44.244.21.125, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇨🇳 TW, server: 57.181.42.181, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 管理员B, server: 183.236.48.163, port: 54882, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇭🇰 SS-香港-2025-07-01, server: work.zxrjy.net, port: 55904, type: ss, cipher: aes-256-gcm, password: 6785111tyuijkhgfxyhtgiu554}
+  - {name: 🇺🇸 VMESS-美国-204, server: yd2.ainivp.com, port: 33416, type: vmess, uuid: 9204afcd-023e-781f-1abc-c12efccd1344, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ray, headers: {Host: yd2.ainivp.com}}}
+  - {name: 🇯🇵 VMESS-日本-204, server: yd2.ainivp.com, port: 33202, type: vmess, uuid: 9204afcd-023e-781f-1abc-c12efccd1344, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ray, headers: {Host: yd2.ainivp.com}}}
+  - {name: 🇨🇳 VMESS-台湾, server: jian.ddnsfree.com, port: 22638, type: vmess, uuid: dcfd733d-17e7-47d2-9b43-1a8394b56e4c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /dcfd733d, headers: {Host: jian.ddnsfree.com}}}
+  - {name: 🇺🇸 VMESS-美国-加州, server: 107.173.50.200, port: 10010, type: vmess, uuid: 1bee251f-d438-4585-ab35-10ef7c3d4648, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇸🇬 VMESS-新加坡-204, server: cu2.ainivp.com, port: 33416, type: vmess, uuid: 9204afcd-023e-781f-1abc-c12efccd1344, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ray, headers: {Host: cu2.ainivp.com}}}
+  - {name: 🇺🇸 美国, server: 156.146.38.167, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇨🇭 瑞士, server: 156.146.62.164, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 沈特�fa新国, server: 146.56.112.110, port: 8888, type: vmess, uuid: e7c302f3-90d6-42dd-9d7d-94a3683a3707, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇸🇬 新加坡, server: 104.17.197.31, port: 443, type: vmess, uuid: 441da342-ce90-441e-bff9-d2ceb55e68ca, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: quiet-moon-132a.xetag42714.workers.dev, network: ws, ws-opts: {path: /ivideos.sbs/linkws, headers: {Host: quiet-moon-132a.xetag42714.workers.dev}}}
+  - {name: 🇯🇵 日本, server: 139.162.84.183, port: 3306, type: trojan, password: f653ef08c54e21b3, sni: n2.gladns.com, skip-cert-verify: false}
+  - {name: 🇯🇵 日本 2, server: 139.162.84.183, port: 3306, type: trojan, password: 7ac49a893e0bd10c, sni: n2.gladns.com, skip-cert-verify: false}
+  - {name: 🇯🇵 日本 3, server: 139.162.84.183, port: 3306, type: trojan, password: dc2d9db59868ba6b, sni: n2.gladns.com, skip-cert-verify: false}
+  - {name: 🇯🇵 日本 4, server: 139.162.84.183, port: 3306, type: trojan, password: 26a663656e575c0b, sni: n2.gladns.com, skip-cert-verify: false}
+  - {name: 🇯🇵 japan 2, server: 149.22.87.240, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇸🇬 A新加坡01, server: sg3.0117f4a4-fe88-2871-5c77-b6c4f146c4e4.d4f84ebb.the-best-airport.com, port: 443, type: trojan, password: d36b2582-cf80-4eda-8a53-4c5c14ba9af5, sni: new.download.the-best-airport.com, skip-cert-verify: false}
+  - {name: 🇯🇵 A东京01, server: ak2.firewoodzz.com, port: 35001, type: trojan, password: cf916430-7279-46d7-96dd-8c55be4b11e6, sni: updates.sub-nthu.com, skip-cert-verify: false}
+  - {name: 🇬🇧 英国02, server: jscm-cm-cm.saivac.buzz, port: 31725, type: ss, cipher: aes-128-gcm, password: 1e9c3ce9-c50f-4005-957f-a06e15e00ad7}
+  - {name: 🇬🇧 英国03, server: ukbill.ciyynodegroup.cyou, port: 20012, type: ss, cipher: chacha20-ietf-poly1305, password: 83ffc375-fdcb-4eda-9a76-60f1230d95d0}
+  - {name: 🇸🇬 新加坡01, server: jscm-cm-cm.saivac.buzz, port: 35245, type: ss, cipher: aes-128-gcm, password: 1e9c3ce9-c50f-4005-957f-a06e15e00ad7}
+  - {name: 🇸🇬 新加坡02, server: vxi876.vpd.buzz, port: 35245, type: ss, cipher: aes-128-gcm, password: 1e9c3ce9-c50f-4005-957f-a06e15e00ad7}
+  - {name: 🇸🇬 新加坡03, server: xzcmicmicmi.vpd.buzz, port: 35469, type: ss, cipher: aes-128-gcm, password: 1e9c3ce9-c50f-4005-957f-a06e15e00ad7}
+  - {name: vmess-ws-tls, server: jpvbshohcgc.com, port: 443, type: vmess, uuid: fa1897db-1925-4c86-a495-939a959af900, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: jpvbshohcgc.com, network: ws, ws-opts: {path: /rbqqvws, headers: {Host: jpvbshohcgc.com}}}
+  - {name: vmess-ws-tls 2, server: twvoyccdebb.com, port: 443, type: vmess, uuid: fe34491f-9045-4a14-9034-4ce00194eb61, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: twvoyccdebb.com, network: ws, ws-opts: {path: /rbqqvws, headers: {Host: twvoyccdebb.com}}}
+  - {name: vmess-ws-tls 3, server: dkzbofzkop.com, port: 443, type: vmess, uuid: fa1897db-1925-4c86-a495-939a959af900, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: dkzbofzkop.com, network: ws, ws-opts: {path: /rbqqvws, headers: {Host: dkzbofzkop.com}}}
+  - {name: 🇭🇰 香港节点1, server: 183.232.159.51, port: 45107, type: ss, cipher: chacha20-ietf-poly1305, password: 173c0893-5ab2-4223-88ce-b6e8d512306b}
+  - {name: 🇭🇰 香港节点2, server: 183.232.159.51, port: 39551, type: ss, cipher: chacha20-ietf-poly1305, password: 173c0893-5ab2-4223-88ce-b6e8d512306b}
+  - {name: 🇭🇰 香港节点3, server: 183.232.159.51, port: 11308, type: ss, cipher: chacha20-ietf-poly1305, password: 173c0893-5ab2-4223-88ce-b6e8d512306b}
+  - {name: 🇭🇰 香港节点4, server: 183.232.159.51, port: 47621, type: ss, cipher: chacha20-ietf-poly1305, password: 173c0893-5ab2-4223-88ce-b6e8d512306b}
+  - {name: 🇰🇷 韩国1, server: 183.232.159.51, port: 55518, type: ss, cipher: chacha20-ietf-poly1305, password: 173c0893-5ab2-4223-88ce-b6e8d512306b}
+  - {name: 🇰🇷 韩国2, server: 183.232.159.51, port: 23707, type: ss, cipher: chacha20-ietf-poly1305, password: 173c0893-5ab2-4223-88ce-b6e8d512306b}
+  - {name: 🇨🇳 台湾节点1, server: 183.232.159.51, port: 55971, type: ss, cipher: chacha20-ietf-poly1305, password: 173c0893-5ab2-4223-88ce-b6e8d512306b}
+  - {name: 🇨🇳 台湾节点2, server: 183.232.159.51, port: 15132, type: ss, cipher: chacha20-ietf-poly1305, password: 173c0893-5ab2-4223-88ce-b6e8d512306b}
+  - {name: 🇨🇳 台湾节点3, server: 183.232.159.51, port: 34401, type: ss, cipher: chacha20-ietf-poly1305, password: 173c0893-5ab2-4223-88ce-b6e8d512306b}
+  - {name: 🇨🇳 台湾节点4, server: 183.232.159.51, port: 58246, type: ss, cipher: chacha20-ietf-poly1305, password: 173c0893-5ab2-4223-88ce-b6e8d512306b}
+  - {name: 🇬🇧 英国节点1, server: 183.232.159.51, port: 59193, type: ss, cipher: chacha20-ietf-poly1305, password: 173c0893-5ab2-4223-88ce-b6e8d512306b}
+  - {name: 🇬🇧 英国节点2, server: 183.232.159.51, port: 55446, type: ss, cipher: chacha20-ietf-poly1305, password: 173c0893-5ab2-4223-88ce-b6e8d512306b}
+  - {name: 🇸🇬 新加坡节点1, server: 183.232.159.51, port: 49392, type: ss, cipher: chacha20-ietf-poly1305, password: 173c0893-5ab2-4223-88ce-b6e8d512306b}
+  - {name: 🇸🇬 新加坡节点2, server: 183.232.159.51, port: 53062, type: ss, cipher: chacha20-ietf-poly1305, password: 173c0893-5ab2-4223-88ce-b6e8d512306b}
+  - {name: 🇯🇵 日本节点1, server: 183.232.159.51, port: 33238, type: ss, cipher: chacha20-ietf-poly1305, password: 173c0893-5ab2-4223-88ce-b6e8d512306b}
+  - {name: 🇯🇵 日本节点2, server: 183.232.159.51, port: 26714, type: ss, cipher: chacha20-ietf-poly1305, password: 173c0893-5ab2-4223-88ce-b6e8d512306b}
+  - {name: 🇯🇵 日本节点3, server: 183.232.159.51, port: 41886, type: ss, cipher: chacha20-ietf-poly1305, password: 173c0893-5ab2-4223-88ce-b6e8d512306b}
+  - {name: 🇯🇵 日本节点4, server: 183.232.159.51, port: 22064, type: ss, cipher: chacha20-ietf-poly1305, password: 173c0893-5ab2-4223-88ce-b6e8d512306b}
+  - {name: 🇺🇸 美国节点1, server: 183.232.159.51, port: 11329, type: ss, cipher: chacha20-ietf-poly1305, password: 173c0893-5ab2-4223-88ce-b6e8d512306b}
+  - {name: 🇺🇸 美国节点2, server: 183.232.159.51, port: 47046, type: ss, cipher: chacha20-ietf-poly1305, password: 173c0893-5ab2-4223-88ce-b6e8d512306b}
+  - {name: 🇺🇸 美国节点3, server: 183.232.159.51, port: 37959, type: ss, cipher: chacha20-ietf-poly1305, password: 173c0893-5ab2-4223-88ce-b6e8d512306b}
+  - {name: 🇺🇸 美国节点4, server: 183.232.159.51, port: 19505, type: ss, cipher: chacha20-ietf-poly1305, password: 173c0893-5ab2-4223-88ce-b6e8d512306b}
+  - {name: 🇻🇳 越南1, server: 183.232.159.51, port: 44595, type: ss, cipher: chacha20-ietf-poly1305, password: 173c0893-5ab2-4223-88ce-b6e8d512306b}
+  - {name: 🇻🇳 越南2, server: 183.232.159.51, port: 35071, type: ss, cipher: chacha20-ietf-poly1305, password: 173c0893-5ab2-4223-88ce-b6e8d512306b}
