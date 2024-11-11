@@ -1,10 +1,9 @@
   - {name: "34,35,36,105,118,179,564|CZ-195.181.160.6-4088 | 27.209...", server: 195.181.160.6, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
-  - {name: "105,184,321,446,447|Relay_🇨🇿CZ-🇨🇿CZ_53 #1", server: v2cross.com.02.v2ce.com, port: 443, type: trojan, password: 3gLlCYBipVwr6Y5F, skip-cert-verify: false}
-  - {name: "🇷🇺 105,321,487|🇷🇺 Russian Federation - Novosi... #141", server: 195.133.53.192, port: 43688, type: vmess, uuid: bd1c8b57-0a9e-4e9f-a261-48e90c871e41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: YouTube-aweikeji, network: ws, ws-opts: {path: /}}
-  - {name: "🇪🇸 134,285|🇪🇸 ES 27 → tg@nicevpn123", server: 77.75.230.125, port: 8080, type: vmess, uuid: d466dd36-8b86-48b7-b0f0-67e7d128de6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess}}
-  - {name: "181,321,403,418,419,420,425,427,430,434,436,446,447|🇨🇿CZ_54 #1", server: 92.118.149.85, port: 443, type: trojan, password: 3gLlCYBipVwr6Y5F, skip-cert-verify: false}
-  - {name: "184,321,380|Relay_🇨🇿CZ-🇨🇿CZ_16", server: v2cross.com.01.v2ce.com, port: 443, type: trojan, password: mMQ6qJB9xbhiRvgg, skip-cert-verify: false}
-  - {name: "184,246,321|1_111368", server: v2cross.com.05.v2ce.com, port: 443, type: trojan, password: kGrwqmB1nEKUsDwE, skip-cert-verify: false}
+  - {name: "80,126,181,321,403,418,419,420,425,427,430,434,436,446,447|🇨🇿CZ_54 #1", server: 92.118.149.85, port: 443, type: trojan, password: 3gLlCYBipVwr6Y5F, skip-cert-verify: false}
+  - {name: 105|Relay_🇨🇿CZ-🇨🇿CZ_46 | 4.09Mb, server: m003.mmzhk.website, port: 8080, type: vmess, uuid: 9d655d30-cfad-4cda-82d6-9028ab41907d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /xyz, headers: {Host: m003.mmzhk.website}}}
+  - {name: "105,126,184,321,446,447|Relay_🇨🇿CZ-🇨🇿CZ_53 #1", server: v2cross.com.02.v2ce.com, port: 443, type: trojan, password: 3gLlCYBipVwr6Y5F, skip-cert-verify: false}
+  - {name: "🇷🇺 105,321,487|🇷🇺 Russian Federation - Novosi... #146", server: 195.133.53.192, port: 43688, type: vmess, uuid: bd1c8b57-0a9e-4e9f-a261-48e90c871e41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: YouTube-aweikeji, network: ws, ws-opts: {path: /}}
+  - {name: "🇪🇸 128,134,285|🇪🇸 ES 27 → tg@nicevpn123", server: 77.75.230.125, port: 8080, type: vmess, uuid: d466dd36-8b86-48b7-b0f0-67e7d128de6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess}}
   - {name: 184|CZ 23, server: t03.ssrsub.com, port: 852, type: trojan, password: 00b19c02-bc00-440a-a397-faf70ac3f44e, skip-cert-verify: false}
   - {name: "257,420|CZ-212.102.38.88-9460", server: 212.102.38.88, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa}
   - {name: "257,420|🇨CZ-212.102.38.41-9461", server: 212.102.38.41, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa}
@@ -16,3 +15,6 @@
   - {name: "🇨🇿 463,477|🇨🇿_CZ_捷克 #2", server: 194.87.169.8, port: 65514, type: vmess, uuid: d03cccfc-9be6-43b4-88d2-3023872bd43b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: "🇨🇿 481|🇨🇿 Czechia - Prague 🌍 TR-TCP-T... #1", server: 185.253.46.40, port: 443, type: trojan, password: vGWCNNfBHwSY6m6M, sni: 185.253.46.40, skip-cert-verify: false}
   - {name: 🇨🇿 484|🇨🇿 Czechia - NA 🌍 TR-TCP-TLS 4..., server: 194.87.58.106, port: 443, type: trojan, password: 2e7d3f13-be1b-479c-94ff-0e95c2bd565d, sni: 3us4.pqjc.buzz, skip-cert-verify: false}
+  - {name: 🇨🇿 484|🇨🇿 Czechia - Jaroměř 🌍 TR-TCP-..., server: 185.32.183.15, port: 443, type: trojan, password: 9c7a49a2-ddff-4654-925b-baa7913dbc56, sni: cz.v212.fun, skip-cert-verify: false}
+  - {name: "🇨🇿 484|🇨🇿 Czechia - Prague 🌍 TR-TCP-T... #3", server: 185.253.46.69, port: 443, type: trojan, password: HTrovQkamDxNfaD5, sni: cz5.v2ce.com, skip-cert-verify: false}
+  - {name: "🇨🇿 484|🇨🇿 Czechia - NA 🌍 TR-TCP-TLS 4... #1", server: 185.87.148.46, port: 33660, type: trojan, password: df3ce737-09ae-4c2a-98fe-73840561ab67, sni: tr-c-cmi.yearone.cyou, skip-cert-verify: false}
