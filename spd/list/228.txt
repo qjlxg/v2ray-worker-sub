@@ -1,0 +1,25 @@
+  - {name: 51|CH-186.190.215.32-8304 | 26.96..., server: 186.190.215.32, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
+  - {name: "51,59,64|CH-156.146.62.164-0755 | 15.36...", server: 156.146.62.164, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 59|CH-186.190.215.75-8277 | 5.434..., server: 186.190.215.75, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 186.190.215.75}}}
+  - {name: 64|SS-TCP-NA 🇨🇭 CH-195.15.243.125..., server: 195.15.243.125, port: 5555, type: ss, cipher: chacha20-ietf-poly1305, password: AdcivTASb8XWqRKubWaz2w}
+  - {name: 🇨🇭 51|瑞士 001, server: xr005.louwangzhiyu.xyz, port: 8080, type: vmess, uuid: 6e1ea1c1-c140-4f15-b98e-457390972704, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /xyz, headers: {Host: xr005.louwangzhiyu.xyz}}}
+  - {name: 51|CH😈SSRSUB_1319126873, server: sOeU2r.gov.goldliond.top, port: 20185, type: vmess, uuid: 0dbf5048-e89c-4295-859c-71dc8bf71d1f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 51|CH😈SSRSUB_1183078647, server: N6eKz0.gov.goldliond.top, port: 20185, type: vmess, uuid: 0dbf5048-e89c-4295-859c-71dc8bf71d1f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 51|CH😈SSRSUB_-2059992362, server: mjhgoD.gov.goldliond.top, port: 20185, type: vmess, uuid: 0dbf5048-e89c-4295-859c-71dc8bf71d1f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 59|CH-186.190.215.32-8153 | 5.494..., server: 186.190.215.32, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 186.190.215.32}}}
+  - {name: 51|CH😈SSRSUB_-1628870745, server: SuitEn.gov.goldliond.top, port: 20185, type: vmess, uuid: 0dbf5048-e89c-4295-859c-71dc8bf71d1f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 64|TR-WS-TLS 🇨🇭 CH-185.18.250.117..., server: 185.18.250.117, port: 443, type: trojan, password: 1e9aadae-ca17-4f75-b0a0-7de5e3858cfb, sni: xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev}}}
+  - {name: 64|SS-TCP-NA 🇨🇭 CH-23.166.88.198:..., server: 23.166.88.198, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 51|CH-01@𝙢𝙛𝙗𝙥𝙣, server: tg_mfbpn05.52cloud.us.kg, port: 20001, type: ss, cipher: aes-256-gcm, password: 74S60PLZDUEXD9YP}
+  - {name: "64|SS-TCP-NA 🇨🇭 CH-23.166.88.198:... #1", server: 23.166.88.198, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: "51,64|CH-156.146.62.162-0750 | 15.16...", server: 156.146.62.162, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: "64|SS-TCP-NA 🇨🇭 CH-23.166.88.198:... #2", server: 23.166.88.198, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 51|🔒 SS-TCP-NA 🇨🇭 CH-23.166.88.5:..., server: 23.166.88.5, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 64|SS-TCP-NA 🇨🇭 CH-23.166.88.221:..., server: 23.166.88.221, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: 45|19|🔒 VM-TCP-NA 🇨🇭 CH-94.131.99..., server: 94.131.99.8, port: 47182, type: vmess, uuid: 81b2b630-8b6a-404f-b996-b12f13db5786, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: "51,64|CH-156.146.62.163-0738 | 14.9M...", server: 156.146.62.163, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: "51,64|CH-156.146.62.161-0739 | 15.86...", server: 156.146.62.161, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: "🇨🇭 49|[SS] 🇨🇭 _CH_瑞士", server: 84.17.53.163, port: 80, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa}
+  - {name: "64|SS-TCP-NA 🇨🇭 CH-23.166.88.198:... #3", server: 23.166.88.198, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 51|CH😈SSRSUB_-1541558068, server: 6WqoBB.gov.goldliond.top, port: 20185, type: vmess, uuid: 0dbf5048-e89c-4295-859c-71dc8bf71d1f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 51|CH-186.190.215.75-8388 | 27.00..., server: 186.190.215.75, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
