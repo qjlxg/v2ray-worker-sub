@@ -1,11 +1,9 @@
-  - {name: "0,1,2,4,10,51,89,97,101,132|0|--10", server: 45.87.175.164, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
-  - {name: "0,1,2,26,27,45,51,97,101,125|[SS] 欧盟 V2CROSS.COM #2", server: beesyar.org, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
-  - {name: "0,1,2,4,45,51,97,101|🇱🇹 LT_462", server: 45.87.175.178, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
-  - {name: "0,1,2,4,51,97,101|🇱🇹 LT_455", server: 45.87.175.154, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
-  - {name: "0,1,2,4,51,89,97,101|🇱🇹 LT_466", server: 45.87.175.181, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
-  - {name: "0,1,2,10,11,50,51,87,89,97,101,132|0|--6", server: 45.87.175.188, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
-  - {name: "0,1,2,4,89,97,101|🇱🇹 LT_470", server: 45.87.175.166, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
-  - {name: "0,1,2,4,26,27,51,89,97,101,125,132|0|--14", server: 45.87.175.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
+  - {name: "0,1,2,4,45,51,89,97,98,101|🇱🇹 LT_454", server: 45.87.175.181, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
+  - {name: "0,1,2,4,10,45,51,89,97,98,101,132|0|--14", server: 45.87.175.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
+  - {name: "0,1,2,4,10,45,51,89,98,101,132|0|--10", server: 45.87.175.164, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
+  - {name: "0,1,2,4,26,27,51,98,101,125|[SS] 欧盟 V2CROSS.COM 2 #2", server: beesyar.org, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
+  - {name: "0,1,2,4,10,11,45,50,51,87,89,98,101,132|0|--6", server: 45.87.175.188, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
+  - {name: "0,1,2,4,26,27,51,97,98,101,125|[SS] 欧盟 V2CROSS.COM #2", server: 45.87.175.178, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
   - {name: "25,47|D-WEALTH-2386 #1", server: 143.198.18.35, port: 8881, type: vmess, uuid: db5afae4-ac23-41a6-8378-f307a9a47436, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: "32,47|🇱🇹LT-85.206.165.36-0972 #1", server: 85.206.165.36, port: 443, type: vmess, uuid: ba49ab05-78f8-4b0b-9400-1826cc2d3f75, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
   - {name: "32,47|8J%2BHqPCfh6ZDQS0zLjk4LjIwMC4x...", server: z0115.security-cloudfront-cdn.com, port: 42833, type: ssr, cipher: aes-256-cfb, password: YpX2opBbrfqJzzMs, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: ""}

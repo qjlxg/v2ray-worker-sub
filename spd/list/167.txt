@@ -1,10 +1,9 @@
-  - {name: "0,1,2,101|IE_446", server: 23.92.127.133, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 4|IE_152, server: 54.154.185.168, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: "4,97|IE_603", server: 34.249.234.156, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: "0,1,2,101|IE_442", server: 23.92.127.133, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: "32,47|🇮🇪IE-185.108.128.60-0971 #1", server: 185.108.128.60, port: 443, type: vmess, uuid: 5aab3936-16d7-4377-8c33-0d77f2d295ee, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
   - {name: "32,47|🇮🇪IE-45.131.248.228-9321", server: 45.131.248.228, port: 59102, type: vmess, uuid: ac027362-c988-4670-f78f-021b5be6f4e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
   - {name: "32,47|🇮🇪IE-45.131.248.140-9324", server: 45.131.248.140, port: 50068, type: vmess, uuid: 557e532e-de4a-4b3e-9fb2-5d355ccb5da9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
   - {name: "41,42,44|🇮🇪 IE 85.159.229.88 ◈ grpc:844... #8", server: f2.maryam1900.com, port: 8443, type: vmess, uuid: afe57557-df24-43e5-9cea-5d2acc2cad08, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: grpc, servername: f2.maryam1900.com, grpc-opts: {grpc-service-name: /}}
   - {name: "43,44|🇮🇪 IE 85.159.229.88 ◈ grpc:844... #7", server: 85.159.229.88, port: 8443, type: vmess, uuid: afe57557-df24-43e5-9cea-5d2acc2cad08, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: grpc, servername: "", grpc-opts: {grpc-service-name: /}}
-  - {name: 51|TG频道@mfbpn-0815-IE, server: 52.169.126.67, port: 64401, type: ss, cipher: chacha20-ietf-poly1305, password: qM7y4D7jun6cC5NMdQ3FE5}
+  - {name: 🇮🇪 45|🇮🇪 爱尔兰_2, server: 231103level1.unclemanco.com, port: 36201, type: ss, cipher: aes-128-gcm, password: Vdssf.mj/2Zr, plugin: obfs, plugin-opts: {mode: http, host: ef8be102475.download.windowsupdate.com}}
+  - {name: 97|IE_762, server: 34.249.234.156, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: 123|🇮🇪IE(AzadNet.t.me)_002, server: 52.215.215.231, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
