@@ -1,7 +1,7 @@
-  - {name: "0,48,50|TG频道@mfbpn-0580-TR", server: 103.215.218.222, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, servername: 103.215.218.222, network: ws, ws-opts: {path: linkvws}}
-  - {name: "0,1,2,96,100|🇱NL_481", server: 193.29.139.251, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
-  - {name: "0,1,2,96,100|🇱NL_480", server: 193.29.139.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
-  - {name: 2|ChatGPT  NL_348, server: 176.124.199.255, port: 30252, type: ss, cipher: chacha20-ietf-poly1305, password: Zgg@X0m515}
+  - {name: "0,96|NL_881", server: 103.215.218.222, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, servername: 103.215.218.222, network: ws, ws-opts: {path: linkvws}}
+  - {name: "0,1,2,96,100|🇱NL_469", server: 193.29.139.251, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: "0,1,2,11,49,86,100|🇳🇱NL_470", server: 51.15.27.48, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: "0,1,2,96,100|🇱NL_468", server: 193.29.139.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
   - {name: "🇳🇱 17,25,31,35,46,57,87,133|荷兰 008 #2", server: 45.149.12.75, port: 443, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /linkws#, headers: {Host: obdii.cfd}}}
   - {name: 🇳🇱 22|🇳🇱NL | 🟢 | vmess | 3YED | 1, server: 45.199.138.217, port: 41000, type: vmess, uuid: f9fa3a9c-f7d5-414f-88e6-6970585d9949, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/282018252526}}
   - {name: "🇳🇱 31,46|🇳🇱NL-13.73.229.250-0935 #1", server: 13.73.229.250, port: 443, type: vmess, uuid: 4893ed3e-8a5f-48dc-aa1e-bbc2e67a065b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
@@ -165,9 +165,9 @@
   - {name: 🇳🇱 51|TG频道@mfbpn-0075-NL, server: 172.99.188.71, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
   - {name: 🇳🇱 55|🇳🇱 荷兰_103018010, server: 95.179.128.114, port: 80, type: vmess, uuid: a6292090-afe1-4640-97a7-4f1d1d877cf1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /Av8czorIlYicU6D349brWUw6a, headers: {Host: 95.179.128.114}}}
   - {name: "🇳🇱 74,76,78|🇳🇱NL-89.23.103.249-8081 #2", server: 89.23.103.249, port: 8081, type: vmess, uuid: e712c422-d801-47bb-8d4f-bec91d1b3945, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: xbox.com}
-  - {name: "🇳🇱 87,133|荷兰 003 #1", server: 45.149.12.56, port: 443, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /linkws#, headers: {Host: obdii.cfd}}}
   - {name: 🇳🇱 88|NL-185.242.86.156-000, server: 185.242.86.156, port: 54170, type: ss, cipher: chacha20-ietf-poly1305, password: 36ZCHeabUSfKjfQEvJ4HDV}
   - {name: "90|[🇳🇱]141.11.250.166:19389(7564d...", server: 141.11.250.166, port: 19389, type: vmess, uuid: 7564de07-a8de-4047-b635-8184cdd42a5d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 100| NL_467, server: 103.215.218.222, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, servername: 103.215.218.222, network: ws, ws-opts: {path: linkvws}}
   - {name: "🇳🇱 112|[VMess] 🇳🇱 Relay_🇳🇱NL-🇳🇱NL_893", server: hdfy8d1.cpi2hidd.eu.org, port: 80, type: vmess, uuid: a6292090-afe1-4640-97a7-4f1d1d877cf1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: hdfy8d1.cpi2hidd.eu.org, network: ws, ws-opts: {path: /Av8czorIlYicU6D349brWUw6a, headers: {Host: hdfy8d1.cpi2hidd.eu.org}}}
   - {name: 🇳🇱 119|🇱NL(AzadNet.t.me)_001, server: 37.48.65.144, port: 443, type: trojan, password: 0cb2cd1f-870b-485c-914a-60aba39eed39, sni: tt6.tjvpn.top, skip-cert-verify: false}
   - {name: 🇳🇱 119|🇳🇱NL(AzadNet.t.me)_005, server: 45.154.156.178, port: 32648, type: vmess, uuid: bc8e1235-6cef-4bdd-f3f2-0b4f3c8a7b70, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
