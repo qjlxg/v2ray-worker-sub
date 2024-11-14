@@ -1,7 +1,5 @@
-  - {name: "10,43,49,87|LT-45.87.175.188-097", server: 45.87.175.188, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
-  - {name: "10,43,49|TG频道@mfbpn-0741-LT", server: 45.87.175.178, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
-  - {name: "10,49|TG频道@mfbpn-0986-LT", server: 45.87.175.192, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
-  - {name: "11,49|TG频道@mfbpn-0789-LT", server: 45.87.175.154, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
+  - {name: "0,1,2,4,49,85|LT-45.87.175.181-1350 | 29.724...", server: 45.87.175.181, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
+  - {name: "0,2,4,49,96,99|🇹 LT_454", server: 45.87.175.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
   - {name: "25,36,45|D-WEALTH-2386 #2", server: 143.198.18.35, port: 8881, type: vmess, uuid: db5afae4-ac23-41a6-8378-f307a9a47436, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: "31,45|🇱🇹LT-85.206.165.36-0943 #1", server: 85.206.165.36, port: 443, type: vmess, uuid: ba49ab05-78f8-4b0b-9400-1826cc2d3f75, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
   - {name: "31,36,45|8J%2BHqPCfh6ZDQS0xNS4yMjIuNjMu... #2", server: z0115.security-cloudfront-cdn.com, port: 42833, type: ssr, cipher: aes-256-cfb, password: YpX2opBbrfqJzzMs, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: ""}
@@ -12,7 +10,8 @@
   - {name: "31,36,45|8J%2BHs%2FCfh7FOTC05NC4xMDIuNT... #7", server: 94.102.57.163, port: 11708, type: ssr, cipher: aes-256-cfb, password: sEscPBiAD9K$&@79, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: ""}
   - {name: "31,45|🇱🇹LT-85.206.165.38-8848", server: 85.206.165.38, port: 443, type: vmess, uuid: ba49ab05-78f8-4b0b-9400-1826cc2d3f75, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.83322971.xyz}}}
   - {name: "31,45|🇱🇹LT-85.206.165.35-8849", server: 85.206.165.35, port: 443, type: vmess, uuid: ba49ab05-78f8-4b0b-9400-1826cc2d3f75, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/173403330828, headers: {Host: www.83322971.xyz}}}
-  - {name: "49,85|LT-45.87.175.181-1350 | 29.724...", server: 45.87.175.181, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
-  - {name: 49|TG频道@mfbpn-0739-LT, server: 45.87.175.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
-  - {name: 49|TG频道@mfbpn-0965-LT, server: 45.87.175.164, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
-  - {name: 49|TG频道@mfbpn-0957-LT, server: 45.87.175.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
+  - {name: 49|TG频道@mfbpn-0800-LT, server: 45.87.175.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
+  - {name: 49|TG频道@mfbpn-1047-LT, server: 45.87.175.192, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
+  - {name: 49|TG频道@mfbpn-1026-LT, server: 45.87.175.164, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
+  - {name: 49|TG频道@mfbpn-0850-LT, server: 45.87.175.154, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
+  - {name: "49,80|SS->-NF解锁兰自制剧-ChatGPT-TikTok-Y...", server: 45.87.175.166, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
