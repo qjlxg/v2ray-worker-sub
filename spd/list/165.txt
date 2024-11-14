@@ -1,10 +1,7 @@
-  - {name: "0,1,2,16,95,99| SG_505", server: 5.34.176.111, port: 57614, type: vmess, uuid: 4e55ce40-9f8e-417d-f8ae-aa6af97a7097, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: "2,99|_320 #1", server: iepl2.forlive.live, port: 50105, type: ss, cipher: chacha20-ietf-poly1305, password: a4ac2592-28e7-4927-94b3-277edae0869a}
-  - {name: "2,95|SG_944", server: 13.229.98.87, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: "0,1,2,95,99| SG_525", server: 5.34.176.111, port: 57614, type: vmess, uuid: 4e55ce40-9f8e-417d-f8ae-aa6af97a7097, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: "2,43,95|SG_919", server: 54.169.135.226, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: "2,5,95,99,100|HK_08", server: 103.36.91.23, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456}
   - {name: 🇸🇬 3|SG |  LB-2M, server: sgcft01.xqc.best, port: 443, type: vmess, uuid: c1fdc574-f486-4cea-b73e-c8088b448404, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: d16henb377mok4.cloudfront.net, network: ws, ws-opts: {path: /stream, headers: {Host: d16henb377mok4.cloudfront.net}}}
-  - {name: 4|disney_SG, server: 103.36.90.195, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456}
-  - {name: 4|SG_230, server: 13.250.3.43, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "4,43,95,96|🇬SG_106 |15.53Mb", server: 52.77.209.61, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: "🇸🇬 20,79|🇸🇬Cloud Singapore 01 #1", server: 167.172.85.122, port: 80, type: vmess, uuid: f732addf-30d5-4bcb-91e7-bccbbbd450bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ht4gvpn.com, headers: {Host: dl.kgvn.garenanow.com}}}
   - {name: "🇸🇬 21,81|🇸🇬 新加坡_121320037 #1", server: 8.219.59.222, port: 46998, type: vmess, uuid: 5c9bed1a-716b-43e7-c807-9e0758186360, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
   - {name: "🇸🇬 21,81|🇸🇬 新加坡_121320090 #1", server: 143.42.66.9, port: 40637, type: vmess, uuid: 7e30d039-1751-4fbd-aa0a-918b03003515, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /chami}}
@@ -126,24 +123,27 @@
   - {name: "🇸🇬 41|💰🇸🇬 SG 157.230.241.29 ◈ ws:80 ... #2", server: 157.230.241.29, port: 80, type: vmess, uuid: 4dad8ee1-9a55-4674-9c5b-69b66f4ddcdc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc}}}
   - {name: "🇸🇬 41|🇸🇬 SG 157.230.241.29 ◈ ws:8080... #1", server: 157.230.241.29, port: 8080, type: vmess, uuid: 4dad8ee1-9a55-4674-9c5b-69b66f4ddcdc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: sgdo.vipcasper.com}}}
   - {name: "🇸🇬 41|💰🇸🇬 SG 157.230.241.29 ◈ ws:808... #1", server: 157.230.241.29, port: 8080, type: vmess, uuid: 4dad8ee1-9a55-4674-9c5b-69b66f4ddcdc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc}}}
-  - {name: 🇸🇬 43|🇸🇬 新加坡_1, server: node-sg.dlg365.com, port: 49930, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇸🇬 43|🇸🇬 新加坡_2, server: node-sg.dlg365.com, port: 49933, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇸🇬 43|🇸🇬 新加坡_3, server: node-sg.dlg365.com, port: 49929, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇸🇬 43|🇸🇬 新加坡_4, server: node-sg.dlg365.com, port: 49928, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇸🇬 43|🇸🇬 新加坡_5, server: node-sg.dlg365.com, port: 49927, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇸🇬 43|🇸🇬 新加坡_6, server: node-sg.dlg365.com, port: 49935, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇸🇬 43|🇸🇬 新加坡_7, server: node-sg.dlg365.com, port: 49922, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: "43,95|SG_921", server: 52.77.209.61, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 43|🇸🇬 新加坡_2, server: node-sg.dlg365.com, port: 49928, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇸🇬 43|🇸🇬 新加坡_3, server: node-sg.dlg365.com, port: 49922, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇸🇬 43|🇸🇬 新加坡_4, server: node-sg.dlg365.com, port: 49925, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇸🇬 43|🇸🇬 新加坡_5, server: node-sg.dlg365.com, port: 49926, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇸🇬 43|🇸🇬 新加坡_6, server: node-sg.dlg365.com, port: 49927, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇸🇬 43|🇸🇬 新加坡_7, server: node-sg.dlg365.com, port: 49923, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
   - {name: 🇸🇬 43|🇸🇬 新加坡_8, server: node-sg.dlg365.com, port: 49924, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇸🇬 43|🇸🇬 新加坡_9, server: node-sg.dlg365.com, port: 49926, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇸🇬 43|🇸🇬 新加坡_10, server: node-sg.dlg365.com, port: 49923, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇸🇬 43|🇸🇬 新加坡_11, server: node-sg.dlg365.com, port: 49925, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇸🇬 43|🇸🇬 新加坡_12, server: node-sg.dlg365.com, port: 49931, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇸🇬 43|🇸🇬 新加坡_13, server: node-sg.dlg365.com, port: 49934, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇸🇬 43|🇸🇬 新加坡_14, server: node-sg.dlg365.com, port: 49921, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇸🇬 43|🇸🇬 新加坡_15, server: node-sg.dlg365.com, port: 49932, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: "43,95|SG_946", server: 13.215.205.186, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "🇸🇬 46,47|13-0642-SG #1", server: xjpx6.12123.org, port: 30002, type: vmess, uuid: ba39a38d-43b4-4468-8591-f6051b2bef99, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /12123.org, headers: {Host: xjpx6.12123.org}}}
-  - {name: "🇸🇬 46,47|13-0692-SG #1", server: xjpx5.12123.org, port: 30002, type: vmess, uuid: ba39a38d-43b4-4468-8591-f6051b2bef99, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /12123.org, headers: {Host: xjpx5.12123.org}}}
+  - {name: 🇸🇬 43|🇸🇬 新加坡_9, server: node-sg.dlg365.com, port: 49930, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇸🇬 43|🇸🇬 新加坡_10, server: node-sg.dlg365.com, port: 49929, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇸🇬 43|🇸🇬 新加坡_11, server: node-sg.dlg365.com, port: 49921, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇸🇬 43|🇸🇬 新加坡_12, server: node-sg.dlg365.com, port: 49934, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇸🇬 43|🇸🇬 新加坡_13, server: 47.130.3.54, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: "43,95|_583", server: 13.229.212.209, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 43|🇸🇬 新加坡_15, server: node-sg.dlg365.com, port: 49933, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇸🇬 43|🇸🇬 新加坡_16, server: node-sg.dlg365.com, port: 49931, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇸🇬 43|🇸🇬 新加坡_17, server: node-sg.dlg365.com, port: 49935, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: "43,95|SG_922", server: 13.215.205.186, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 43|🇸🇬 新加坡_19, server: node-sg.dlg365.com, port: 49932, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: "🇸🇬 46,47|13-0664-SG #1", server: xjpx6.12123.org, port: 30002, type: vmess, uuid: ba39a38d-43b4-4468-8591-f6051b2bef99, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /12123.org, headers: {Host: xjpx6.12123.org}}}
+  - {name: 🇸🇬 47|13-0714-SG, server: xjpx5.12123.org, port: 30002, type: vmess, uuid: ba39a38d-43b4-4468-8591-f6051b2bef99, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /12123.org, headers: {Host: xjpx5.12123.org}}}
   - {name: 🇸🇬 49|TG频道@mfbpn-0007-SG, server: 8.219.175.24, port: 80, type: vmess, uuid: c6747da4-fb2e-4a2a-bdb7-8614bdd6b0b3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /sshkit/1736960111/635cb6dd4206c/}}
   - {name: 🇸🇬 49|TG频道@mfbpn-0008-SG, server: 8.219.228.121, port: 80, type: vmess, uuid: c6747da4-fb2e-4a2a-bdb7-8614bdd6b0b3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /sshkit/1736960111/635cb6dd4206c/}}
   - {name: 🇸🇬 49|TG频道@mfbpn-0009-SG, server: 8.219.171.114, port: 80, type: vmess, uuid: c6747da4-fb2e-4a2a-bdb7-8614bdd6b0b3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /sshkit/1736960111/635cb6dd4206c/}}
@@ -175,6 +175,7 @@
   - {name: 🇸🇬 76|🇸🇬SG-154.26.136.194-23563, server: 223.111.134.99, port: 23563, type: vmess, uuid: 3d85cec4-ad55-44b4-8008-e7f69dc7145f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /awssgB}}
   - {name: 🇸🇬 77|🇸🇬SG-103.248.228.75-22004, server: 112.5.37.116, port: 22004, type: vmess, uuid: 3d85cec4-ad55-44b4-8008-e7f69dc7145f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /awssgB}}
   - {name: 🇸🇬 77|🇸🇬SG-154.26.136.194-43563, server: 112.5.37.116, port: 43563, type: vmess, uuid: 3d85cec4-ad55-44b4-8008-e7f69dc7145f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /awssgB}}
+  - {name: 🇸🇬 80|VMESS-未知>新加坡-NF解锁新加坡地区非自制剧-Cha..., server: 172.67.213.19, port: 8080, type: vmess, uuid: 0614a202-deb0-406a-be12-ed386e41dd3b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: de-new01.daluquan.top, network: ws, ws-opts: {path: /}}
   - {name: "89|[🇸🇬]43.156.76.54:43127(2d957a0...", server: 43.156.76.54, port: 43127, type: vmess, uuid: 2d957a05-a1b3-483d-e684-1b232e4a0f30, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: "89|[🇸🇬]172.104.189.166:16937(132e...", server: 172.104.189.166, port: 16937, type: vmess, uuid: 132e20e3-2452-41a5-dc9f-3f8853e4e238, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: "89|[🇸🇬]a4a09ce.s2.glados-config.n...", server: a4a09ce.s2.glados-config.net, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv, plugin: obfs, plugin-opts: {mode: tls, host: a4a09ce.dl.nintendo.net:36403}}
@@ -183,7 +184,9 @@
   - {name: "89|[🇸🇬]13.215.49.89:443(amazonskr...", server: 13.215.49.89, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: "89|[🇸🇬]52.77.219.236:443(amazonsk...", server: 52.77.219.236, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: "89|[🇸🇬]167.99.31.176:48771(d58f81...", server: 167.99.31.176, port: 48771, type: vmess, uuid: d58f81a7-083a-4ff2-e50a-7078c58bbccf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 95|Relay_ZZ-FR_1836, server: 104.22.58.63, port: 80, type: vmess, uuid: fb1151f9-0d11-452a-aab2-c9f904a6ab30, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: 73012792103530616183052842717949.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou, network: ws, ws-opts: {path: /V2LINE-TELEGRAM-CHANNEL-VMESS-WS}}
+  - {name: 95|SG_918, server: 13.250.3.43, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 95|SG_920, server: 43.143.243.164, port: 6700, type: ss, cipher: rc4-md5, password: uYhVA160ZoSg3AI5}
+  - {name: 95|Relay_ZZ-FR_1878, server: 104.22.58.63, port: 80, type: vmess, uuid: fb1151f9-0d11-452a-aab2-c9f904a6ab30, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: 73012792103530616183052842717949.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou, network: ws, ws-opts: {path: /V2LINE-TELEGRAM-CHANNEL-VMESS-WS}}
   - {name: 102|SG_youtube@资源分享师_38, server: cdn.twitter.now.cc, port: 443, type: vmess, uuid: 87283fe7-08e5-403b-a0aa-add7cd68a23e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ikun, headers: {Host: de.twittei.me}}}
   - {name: 🇸🇬 117|🇸SG(AzadNet.t.me)_001, server: 18.142.122.247, port: 443, type: trojan, password: your_password, sni: aws-sg-1.f1rocketnode.com, skip-cert-verify: false}
   - {name: 🇸🇬 117|🇬SG(AzadNet.t.me)_002, server: 103.253.24.212, port: 443, type: trojan, password: 5c5ceb40-902b-11eb-945a-1239d0255272, sni: sg1-trojan.bonds.id, skip-cert-verify: false}

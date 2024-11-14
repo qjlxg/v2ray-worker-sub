@@ -1,9 +1,6 @@
-  - {name: "0,1,2,4,49,87,95,99| HK_441", server: 203.23.128.33, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
-  - {name: "2,11,16,19,48,78,95,96,99,100|RU_10", server: 141.98.234.93, port: 20012, type: ss, cipher: chacha20-ietf-poly1305, password: WfmxKX2FBJRU0Ie9VLIYDL}
-  - {name: "🇭🇰 2,16,36|🔒 VM-TCP-NA 🇭🇰 HK-1.65.205.116...", server: 1.65.205.116, port: 30251, type: vmess, uuid: 9e88a10b-655c-5120-89d0-408634169561, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: "🇭🇰 0,1,2,26,49,87,95,99,119|[SS] 🇭🇰 香港 LeaseWeb HKG10数据中心 #1", server: 203.23.128.33, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+  - {name: "2,33|IR-@V2ray_Alpha-13", server: hkt2.bika.hk, port: 30251, type: vmess, uuid: 9e88a10b-655c-5120-89d0-408634169561, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: "🇸🇬 3,17,33,86,130|新加坡 002 #2", server: hkcft01.xqc.best, port: 443, type: vmess, uuid: 818a5354-b8bb-4379-a8a4-d68373787ef6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: d1th2ch215a6xr.cloudfront.net, network: ws, ws-opts: {path: "/stream?ed=2048", headers: {Host: d1th2ch215a6xr.cloudfront.net}}}
-  - {name: "4,95|_688", server: 194.41.59.80, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456}
-  - {name: "4,95|Relay_HK-HK_868", server: 43.198.148.59, port: 8099, type: trojan, password: dns68, sni: trojan.putata.us.kg, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.putata.us.kg}}}
   - {name: 5|Pool_HK_67, server: 150.107.46.21, port: 8083, type: ssr, cipher: aes-256-cfb, password: iFqnzSscN, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
   - {name: "🇭🇰 15,22,25,33,35,36,39,40,41,42,54,56,87,88,126,127,128|14|香港5|@ripaojiedian #4", server: 143.92.42.65, port: 2902, type: vmess, uuid: 640c1077-d10b-4225-a9fb-d3e9c3ce7a00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: "🇭🇰 17,86,130|香港 014 #2", server: hkvip103.qlgq.fun, port: 11116, type: trojan, password: 7b12813e-e79e-35dc-9c0c-e75b828fdf55, sni: hkvip103.qlgq.fun, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-service-name: hkvip103}}
@@ -89,7 +86,7 @@
   - {name: "🇭🇰 31,45|🇭🇰HK-218.255.149.45-9540", server: 218.255.149.45, port: 80, type: vmess, uuid: 4a75c3ba-f2e9-11ed-bf1b-f23c91369f2d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
   - {name: "🇭🇰 31,45|🇭🇰HK-1.65.223.87-10264", server: 081d1aad-rwcsg0-1n7jq.bn.p5pv.com, port: 80, type: vmess, uuid: 4a75c3ba-f2e9-11ed-bf1b-f23c91369f2d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 081d1aad-rwcsg0-1n7jq.bn.p5pv.com}}}
   - {name: "36|@V2rayMiner #40", server: 19.lwdh.us, port: 12909, type: vmess, uuid: 8259cb1c-dd6c-4739-9c88-af550d977525, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: 19.lwdh.us, network: ws, ws-opts: {path: /, headers: {Host: 19.lwdh.us}}}
-  - {name: "36|@vpnclashfa - 30\n #1", server: 135.125.134.177, port: 443, type: vmess, uuid: d4734bd8-906b-4426-b9ff-9dbc388d56da, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: "36|@vpnclashfa - 27\n #1", server: 135.125.134.177, port: 443, type: vmess, uuid: d4734bd8-906b-4426-b9ff-9dbc388d56da, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇭🇰 37|【A】香港  VIP 1 - Nearoute, server: n21.boom.party, port: 15000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 428994:8fDXQ1, obfs-param: download.windowsupdate.com}
   - {name: 🇭🇰 37|【A】香港  VIP 3 - Nearoute, server: n23.boom.party, port: 11000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 428994:8fDXQ1, obfs-param: download.windowsupdate.com}
   - {name: 🇭🇰 37|【A】香港  VIP 5 - Leaseweb, server: n24.boom.party, port: 12000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 428994:8fDXQ1, obfs-param: download.windowsupdate.com}
@@ -204,26 +201,26 @@
   - {name: "🇭🇰 39,40,42|🔒🇭🇰 HK 210.0.158.219 ◈ ws:1290... #6", server: 19.lwdh.us, port: 12909, type: vmess, uuid: 8259cb1c-dd6c-4739-9c88-af550d977525, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 19.lwdh.us}}}
   - {name: "39,40,41,42,54|未知55 #1", server: 103.85.25.134, port: 55218, type: vmess, uuid: 3827a5c8-c031-46cf-848d-e890d0ead803, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: "39,40,41,42|🇮🇩 ID 154.90.49.88 ◈ tcp:16398... #3", server: 154.90.49.88, port: 16398, type: vmess, uuid: 023e5c01-8f66-427d-806a-79e996a748a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇭🇰 43|🇭🇰 香港_1, server: node-hk.dlg365.com, port: 49917, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇭🇰 43|🇭🇰 香港_2, server: node-hk.dlg365.com, port: 49915, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇭🇰 43|🇭🇰 香港_3, server: node-hk.dlg365.com, port: 49914, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇭🇰 43|🇭🇰 香港_4, server: node-hk.dlg365.com, port: 49907, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇭🇰 43|🇭🇰 香港_5, server: node-hk.dlg365.com, port: 49913, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇭🇰 43|🇭🇰 香港_6, server: node-hk.dlg365.com, port: 49920, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇭🇰 43|🇭🇰 香港_7, server: node-hk.dlg365.com, port: 49906, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇭🇰 43|🇭🇰 香港_8, server: node-hk.dlg365.com, port: 49902, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇭🇰 43|🇭🇰 香港_9, server: node-hk.dlg365.com, port: 49908, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇭🇰 43|🇭🇰 香港_10, server: node-hk.dlg365.com, port: 49918, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇭🇰 43|🇭🇰 香港_11, server: node-hk.dlg365.com, port: 49905, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇭🇰 43|🇭🇰 香港_12, server: node-hk.dlg365.com, port: 49916, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇭🇰 43|🇭🇰 香港_13, server: node-hk.dlg365.com, port: 49909, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇭🇰 43|🇭🇰 香港_14, server: node-hk.dlg365.com, port: 49904, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇭🇰 43|🇭🇰 香港_15, server: node-hk.dlg365.com, port: 49910, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇭🇰 43|🇭🇰 香港_16, server: node-hk.dlg365.com, port: 49911, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇭🇰 43|🇭🇰 香港_17, server: node-hk.dlg365.com, port: 49903, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇭🇰 43|🇭🇰 香港_1, server: node-hk.dlg365.com, port: 49908, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇭🇰 43|🇭🇰 香港_2, server: node-hk.dlg365.com, port: 49918, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇭🇰 43|🇭🇰 香港_3, server: node-hk.dlg365.com, port: 49907, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇭🇰 43|🇭🇰 香港_4, server: node-hk.dlg365.com, port: 49916, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇭🇰 43|🇭🇰 香港_5, server: node-hk.dlg365.com, port: 49902, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇭🇰 43|🇭🇰 香港_6, server: node-hk.dlg365.com, port: 49909, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇭🇰 43|🇭🇰 香港_7, server: node-hk.dlg365.com, port: 49905, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇭🇰 43|🇭🇰 香港_8, server: node-hk.dlg365.com, port: 49917, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇭🇰 43|🇭🇰 香港_9, server: node-hk.dlg365.com, port: 49910, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇭🇰 43|🇭🇰 香港_10, server: node-hk.dlg365.com, port: 49903, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇭🇰 43|🇭🇰 香港_11, server: node-hk.dlg365.com, port: 49906, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇭🇰 43|🇭🇰 香港_12, server: node-hk.dlg365.com, port: 49913, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇭🇰 43|🇭🇰 香港_13, server: node-hk.dlg365.com, port: 49911, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇭🇰 43|🇭🇰 香港_14, server: node-hk.dlg365.com, port: 49912, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇭🇰 43|🇭🇰 香港_15, server: node-hk.dlg365.com, port: 49901, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇭🇰 43|🇭🇰 香港_16, server: node-hk.dlg365.com, port: 49914, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇭🇰 43|🇭🇰 香港_17, server: node-hk.dlg365.com, port: 49915, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
   - {name: 🇭🇰 43|🇭🇰 香港_18, server: node-hk.dlg365.com, port: 49919, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇭🇰 43|🇭🇰 香港_19, server: node-hk.dlg365.com, port: 49901, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
-  - {name: 🇭🇰 43|🇭🇰 香港_20, server: node-hk.dlg365.com, port: 49912, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇭🇰 43|🇭🇰 香港_19, server: node-hk.dlg365.com, port: 49920, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
+  - {name: 🇭🇰 43|🇭🇰 香港_20, server: node-hk.dlg365.com, port: 49904, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3013d9-e9f9-4d16-81c2-d436e6866928}
   - {name: 🇭🇰 43|🇭🇰 香港_21, server: 120.232.81.50, port: 16088, type: ss, cipher: aes-256-cfb, password: hGkQ6915tD}
   - {name: 🇭🇰 49|TG频道@mfbpn-0018-HK, server: 219.76.13.180, port: 443, type: vmess, uuid: 5f64fa65-7b14-49c5-954d-aa15c6bfcacd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /dongtaiwang.com}}
   - {name: 🇭🇰 49|TG频道@mfbpn-0020-HK, server: 47.243.92.11, port: 443, type: vmess, uuid: 91646f9a-b4e9-4aca-bfe3-8892b3e58fe7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ray}}
@@ -244,7 +241,7 @@
   - {name: 🇭🇰 54|🇭🇰 香港_103018006, server: 47.238.51.171, port: 25067, type: vmess, uuid: a32ea699-fcb2-4fbe-c039-39a05223ef5d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇭🇰 54|🇭🇰 香港_103018008, server: 181.215.6.181, port: 80, type: vmess, uuid: af107203-1679-4d7e-cd40-2ece097a0613, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /80, headers: {Host: 181.215.6.181}}}
   - {name: "🇭🇰 68,69,70,71,72,73,74,75,76,77|🇭🇰HK-143.92.32.110-54104 #9", server: 183.236.51.23, port: 54104, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: "68,69,70,71,72,73,74,75,76,77,95| ZZ_1739", server: 143.92.42.65, port: 2902, type: vmess, uuid: 640c1077-d10b-4225-a9fb-d3e9c3ce7a00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, network: http, http-opts: {method: GET, path: [/]}}
+  - {name: "68,69,70,71,72,73,74,75,76,77,95| ZZ_1792", server: 143.92.42.65, port: 2902, type: vmess, uuid: 640c1077-d10b-4225-a9fb-d3e9c3ce7a00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, network: http, http-opts: {method: GET, path: [/]}}
   - {name: "🇭🇰 68,69,70,71,72,73,74|🇭🇰HK-172.247.18.74-40972 #2", server: 120.232.153.72, port: 40972, type: vmess, uuid: 770ee730-2450-4e3c-a6c6-3932bd32afbd, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: "🇭🇰 68,73|🇭🇰HK-210.0.158.253-60066 #5", server: hk0067.alibabaokz.com, port: 60066, type: vmess, uuid: 38571ca6-6692-4559-b901-0bc5826b7661, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: "🇭🇰 69,70,71,72|🇭🇰HK-210.0.158.253-60066 #4", server: hk0069.alibabaokz.com, port: 60066, type: vmess, uuid: 38571ca6-6692-4559-b901-0bc5826b7661, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
@@ -270,8 +267,10 @@
   - {name: "89|[🇭🇰]8.210.34.104:28182(e3c074d...", server: 8.210.34.104, port: 28182, type: vmess, uuid: e3c074dc-bcbb-45c2-bf58-96310ea4b999, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/]}}
   - {name: "89|[🇭🇰]47.242.18.44:30792(99a13d3...", server: 47.242.18.44, port: 30792, type: vmess, uuid: 99a13d3e-8c60-4c5c-9592-ab93383588ff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/]}}
   - {name: "89|[🇭🇰]8.210.87.130:33459(bc75a7a...", server: 8.210.87.130, port: 33459, type: vmess, uuid: bc75a7aa-fbd0-4fc3-a08c-c21192cfca43, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [8.210.87.130]}}}
-  - {name: 95|HK_864, server: 103.149.183.10, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456}
-  - {name: 95|HK_866, server: 5.188.33.172, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, servername: 5.188.33.172, network: ws, ws-opts: {path: linkvws}}
+  - {name: 95|HK_833, server: 154.197.98.64, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456}
+  - {name: 95|HK_834, server: 103.36.90.195, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456}
+  - {name: 95|HK_835, server: 103.149.183.10, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456}
+  - {name: 95|HK_837, server: 5.188.33.172, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, servername: 5.188.33.172, network: ws, ws-opts: {path: linkvws}}
   - {name: "🇨🇳 102|🇨🇳中国【YouTube-由零開始】 #7", server: m.lwvzmdu.cn, port: 16627, type: vmess, uuid: af4dc66a-ec88-4057-9e46-777b584577f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: m.lwvzmdu.cn}}}
   - {name: 102|HK_youtube@资源分享师_138, server: hk80-2.6d83777c049a.sanfen004.me, port: 80, type: vmess, uuid: 004d5ee6-381f-4e2f-960f-1eea33c7cff4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /zh-cn/, headers: {Host: www.baidu.com}}}
   - {name: 🇭🇰 124|🇭🇰 adi|0703v - dg-hk-node01, server: dg-hk-node01.linkthink.app, port: 10210, type: ssr, cipher: rc4-md5, password: abK09D1FnV, protocol: auth_aes128_md5, obfs: http_post, protocol-param: 176327:l8AeWKocJF, obfs-param: ajax.microsoft.com}
