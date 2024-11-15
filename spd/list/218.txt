@@ -36,7 +36,6 @@
   - {name: NTLS_Trojan_WS, server: london.artunnel57.host, port: 80, type: trojan, password: 2a7fdc9d-5811-464d-b30d-50e831c12a3f, skip-cert-verify: false}
   - {name: 🇺🇸 |US|美国|@wxgqlfx|13, server: 35.75.8.137, port: 443, type: trojan, password: 2bec0faf-7a2e-36ea-a603-19303a5ec6d3, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: false}
   - {name: 🇺🇸 |US|美国|@wxgqlfx|29, server: 54.187.91.40, port: 443, type: trojan, password: 2bec0faf-7a2e-36ea-a603-19303a5ec6d3, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: false}
-  - {name: t.me/entryNET, server: 54.238.135.78, port: 443, type: trojan, password: 2bec0faf-7a2e-36ea-a603-19303a5ec6d3, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: false}
   - {name: 🇯🇵 |JP|日本|@wxgqlfx|12, server: 54.238.135.78, port: 443, type: trojan, password: 2bec0faf-7a2e-36ea-a603-19303a5ec6d3, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: false}
   - {name: "@Hot_V2Ry", server: 104.18.202.232, port: 2083, type: trojan, password: 2dbd2a10-9512-4b60-84e6-5d9926a9fe5b, sni: laenatbar.seyedalikhameneibinamous.site, skip-cert-verify: false}
   - {name: BESHKAN 2, server: 194.146.26.40, port: 443, type: trojan, password: 2ea5fc44-bd38-4fb0-a9b9-88c83fc56622, sni: 4-193-105-141.nhost.00cdn.com, skip-cert-verify: false}
@@ -148,9 +147,7 @@
   - {name: maradona_vpn 13, server: maradona_vpn7.history-paint.art, port: 443, type: trojan, password: Maradona_vpn, sni: teo.history-paint.art, skip-cert-verify: false}
   - {name: maradona_vpn 14, server: maradona_vpn8.history-paint.art, port: 443, type: trojan, password: Maradona_vpn, sni: teo.history-paint.art, skip-cert-verify: false}
   - {name: maradona_vpn 15, server: maradona_vpn9.history-paint.art, port: 443, type: trojan, password: Maradona_vpn, sni: teo.history-paint.art, skip-cert-verify: false}
-  - {name: t.me/entryNET 2, server: 104.25.242.254, port: 443, type: trojan, password: NISHIKUITAN222, skip-cert-verify: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 3, server: 172.66.155.79, port: 443, type: trojan, password: NISHIKUITAN222, skip-cert-verify: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 4, server: 190.93.246.0, port: 443, type: trojan, password: NISHIKUITAN222, skip-cert-verify: false}
+  - {name: t.me/entryNET, server: 104.25.242.254, port: 443, type: trojan, password: NISHIKUITAN222, skip-cert-verify: false}
   - {name: Sanchi, server: 172.67.191.189, port: 443, type: trojan, password: OVsFRZT5jG, sni: web.teama.tk, skip-cert-verify: false}
   - {name: "✅ سرورهای بیشتر در کانال :  prrofile_purple@ ✅", server: mci.necrocdn.mom, port: 443, type: trojan, password: PDomE47dow91jyl3sVC8yT, sni: trkg.nmare20106460.workers.dev, skip-cert-verify: false}
   - {name: "@VilniusVPN - 🇳🇱", server: tunnel.vpns.fun, port: 2053, type: trojan, password: Q0Jqz6dchw, sni: vilnius.vpns.fun, skip-cert-verify: false}
@@ -195,37 +192,36 @@
   - {name: IR-@V2ray_Alpha-4, server: 104.16.224.104, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
   - {name: IR-@V2ray_Raha-4, server: 104.16.224.104, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
   - {name: "Telegram : @vlessh 5️⃣", server: 104.16.224.104, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: ConfigV2RayNG, server: 104.16.224.104, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
   - {name: "Tel : @vlessh More Configs", server: 104.16.224.104, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
   - {name: "@fast_2ray 👈سرورهای‌بیشتر", server: 104.16.224.104, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: ⚜️Telegram:@IP_CF, server: 104.16.224.104, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
   - {name: "@APPSOONER کانال تلگرام 🇯🇵", server: 104.17.142.12, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: "@GiveVPN", server: 104.17.142.12, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: "@V2ray1_Ng ALL", server: 104.17.142.12, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: "@gh_v2rayng ALL", server: 104.17.142.12, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: "[🏁]t.me/ConfigsHub", server: 104.17.64.70, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
   - {name: "@vmess_vless_v2rayng", server: 104.18.12.229, port: 2053, type: trojan, password: auto, sni: e9464f45.trauma-2r4.pages.dev, skip-cert-verify: false}
   - {name: 𝐣𝐨𝐢𝐧𓄂𓆃 @v2rayngrit, server: 104.18.12.229, port: 2053, type: trojan, password: auto, sni: e9464f45.trauma-2r4.pages.dev, skip-cert-verify: false}
   - {name: "@GiveVPN 2", server: 104.18.41.190, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: ConfigV2RayNG, server: 104.19.222.79, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: Uvpn_org, server: 104.20.17.161, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: "@Vpn_Tehran ✅️ کانفیگ پرسرعت در کانال تلگرام", server: 104.20.18.79, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: "@v2raying", server: 104.20.18.79, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: کانال سرور اختصاصی با سرعت بالا تضمینی @Outlinev_2rayNG, server: 104.20.19.105, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: "@GiveVPN 3", server: 104.20.19.167, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: "@V2rayNG3", server: 104.20.19.168, port: 2083, type: trojan, password: auto, sni: e9464f45.trauma-2r4.pages.dev, skip-cert-verify: false}
-  - {name: کانال سرور اختصاصی با سرعت بالا تضمینی @Outlinev_2rayNG 2, server: 104.20.19.168, port: 2083, type: trojan, password: auto, sni: e9464f45.trauma-2r4.pages.dev, skip-cert-verify: false}
-  - {name: کانال سرور اختصاصی با سرعت بالا تضمینی @Outlinev_2rayNG 3, server: 104.20.19.220, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
-  - {name: کانال سرور اختصاصی با سرعت بالا تضمینی @Outlinev_2rayNG 4, server: 104.20.20.166, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: کانال سرور اختصاصی با سرعت بالا تضمینی @Outlinev_2rayNG 2, server: 104.20.19.220, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: کانال سرور اختصاصی با سرعت بالا تضمینی @Outlinev_2rayNG 3, server: 104.20.20.166, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: "Tel : @vlessh More Configs 2", server: 104.20.20.219, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
-  - {name: کانال سرور اختصاصی با سرعت بالا تضمینی @Outlinev_2rayNG 5, server: 104.20.20.74, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: کانال سرور اختصاصی با سرعت بالا تضمینی @Outlinev_2rayNG 4, server: 104.20.20.74, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: configkade👉@proxystore11, server: 104.20.21.199, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: "@V2rayNG3 2", server: 104.20.21.78, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: "@Vpn_Tehran 🔥 کانفیگ پرسرعت در کانال تلگرام", server: 104.20.21.78, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: "@v2raying 2", server: 104.20.21.78, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: All-@V2ray_Alpha-3, server: 104.20.21.78, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: "@GiveVPN 4", server: 104.20.21.99, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: "@freeiranweb 2", server: 104.20.22.145, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: "@vpn11_v2❤️11", server: 104.20.6.134, port: 443, type: trojan, password: auto, sni: e9464f45.trauma-2r4.pages.dev, skip-cert-verify: false}
   - {name: "@vpn11_v2💚@chatnekonvaslshim(MTN) 2", server: 104.20.6.134, port: 443, type: trojan, password: auto, sni: e9464f45.trauma-2r4.pages.dev, skip-cert-verify: false}
-  - {name: کانال سرور اختصاصی با سرعت بالا تضمینی @Outlinev_2rayNG 6, server: 104.21.90.210, port: 2053, type: trojan, password: auto, sni: e9464f45.trauma-2r4.pages.dev, skip-cert-verify: false}
   - {name: "@APPSOONER کانال تلگرام 🇰🇷", server: 104.25.254.4, port: 2087, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: All-@V2ray_Alpha-7, server: 104.25.254.4, port: 2087, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: "@GiveVPN 5", server: 104.25.254.4, port: 2087, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
@@ -236,14 +232,13 @@
   - {name: "Tel : @vlessh More Configs 3", server: 104.25.254.4, port: 2087, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: "Tel : @vlessh More Configs 4", server: 104.25.254.4, port: 2087, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: "@bimnetvpn", server: 104.25.254.4, port: 2087, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
-  - {name: کانال سرور اختصاصی با سرعت بالا تضمینی @Outlinev_2rayNG 7, server: 104.26.12.54, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: کانال سرور اختصاصی با سرعت بالا تضمینی @Outlinev_2rayNG 5, server: 104.26.12.54, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: "@v2graphy🕊️", server: 104.26.13.54, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
   - {name: م۷خ۷, server: 104.26.13.54, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
   - {name: Uvpn_org 2, server: 104.26.2.36, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
-  - {name: ConfigV2RayNG 2, server: 104.26.6.112, port: 443, type: trojan, password: auto, sni: b96ef9ae.trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: "@GiveVPN 6", server: 108.162.195.148, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: "@GiveVPN 7", server: 108.162.195.199, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: کانال سرور اختصاصی با سرعت بالا تضمینی @Outlinev_2rayNG 8, server: 108.162.195.199, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: کانال سرور اختصاصی با سرعت بالا تضمینی @Outlinev_2rayNG 6, server: 108.162.195.199, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
   - {name: "@appsooner کانال تلگرام 🇭🇰", server: 162.159.133.85, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: "@bimnetvpn 2", server: 162.159.133.85, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: "@StrongProtocol", server: 162.159.135.232, port: 8443, type: trojan, password: auto, sni: e9464f45.trauma-2r4.pages.dev, skip-cert-verify: false}
@@ -251,11 +246,11 @@
   - {name: "@V_2rayng0 قط شدی بیا اینجا", server: 162.159.136.232, port: 8443, type: trojan, password: auto, sni: e9464f45.trauma-2r4.pages.dev, skip-cert-verify: false}
   - {name: "@appsooner کانال تلگرام 🇩🇪", server: 162.159.136.232, port: 8443, type: trojan, password: auto, sni: e9464f45.trauma-2r4.pages.dev, skip-cert-verify: false}
   - {name: "@gh_v2rayng ALL 2", server: 162.159.136.232, port: 8443, type: trojan, password: auto, sni: e9464f45.trauma-2r4.pages.dev, skip-cert-verify: false}
-  - {name: ConfigV2RayNG 3, server: 162.159.136.232, port: 8443, type: trojan, password: auto, sni: e9464f45.trauma-2r4.pages.dev, skip-cert-verify: false}
   - {name: "@fast_2ray 👈سرورهای‌بیشتر 2", server: 162.159.136.232, port: 8443, type: trojan, password: auto, sni: e9464f45.trauma-2r4.pages.dev, skip-cert-verify: false}
   - {name: t.me/NTGreen 👽, server: 172.64.146.66, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: Uvpn_org 3, server: 172.64.146.66, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: ConfigV2RayNG 4, server: 172.64.35.154, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: "[🏁]t.me/ConfigsHub 2", server: 172.64.35.148, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: کانال سرور اختصاصی با سرعت بالا تضمینی @Outlinev_2rayNG 7, server: 172.64.35.148, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: "@vmess_vless_v2rayng 2", server: 172.66.44.131, port: 443, type: trojan, password: auto, sni: e9464f45.trauma-2r4.pages.dev, skip-cert-verify: false}
   - {name: "@fast_2ray 👈سرورهای‌بیشتر 3", server: 172.66.44.131, port: 443, type: trojan, password: auto, sni: e9464f45.trauma-2r4.pages.dev, skip-cert-verify: false}
   - {name: "@proxy_v2box", server: 172.67.2.238, port: 2083, type: trojan, password: auto, sni: e9464f45.trauma-2r4.pages.dev, skip-cert-verify: false}
@@ -264,6 +259,7 @@
   - {name: "@V2ray1_Ng 2", server: 172.67.49.134, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: "@bimnetvpn 3", server: 172.67.49.134, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: "@gh_v2rayng", server: 172.67.49.134, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
+  - {name: ConfigV2RayNG 2, server: 172.67.49.134, port: 443, type: trojan, password: auto, sni: trojanfree-76s.pages.dev, skip-cert-verify: false}
   - {name: All-@V2ray_Alpha-6, server: 185.146.173.158, port: 443, type: trojan, password: auto, sni: esetsecuritylicense.bwnsmv.workers.dev, skip-cert-verify: false}
   - {name: alsheykhfree20, server: 188.114.99.81, port: 443, type: trojan, password: auto, sni: mazq100za43.962dael.workers.dev, skip-cert-verify: false}
   - {name: "@V2rayNG3 4", server: e9464f45.trauma-2r4.pages.dev, port: 8443, type: trojan, password: auto, sni: e9464f45.trauma-2r4.pages.dev, skip-cert-verify: false}
@@ -296,6 +292,8 @@
   - {name: 🇺🇸 |US|美国|@wxgqlfx|56, server: 104.18.37.111, port: 443, type: trojan, password: bpb-trojan, sni: mindrOOm-5cz.pAgEs.dEV, skip-cert-verify: false}
   - {name: All-@V2ray_Alpha-16, server: 104.18.37.111, port: 443, type: trojan, password: bpb-trojan, sni: mindrOOm-5cz.pAgEs.dEV, skip-cert-verify: false}
   - {name: 88 TG:@v2ray_sub, server: 104.19.35.14, port: 443, type: trojan, password: bpb-trojan, sni: BPB-wOrkeR-pANel1-E4P.pageS.DeV, skip-cert-verify: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 3, server: 172.64.150.145, port: 443, type: trojan, password: bpb-trojan, sni: mindrOOm-5cz.pAgEs.dEV, skip-cert-verify: false, network: ws, ws-opts: {path: /trC8BM8bTsAF0AnLYL, headers: {Host: mindrOOm-5cz.pAgEs.dEV}}}
+  - {name: 🇨🇦 @v2ray_configs_pool📡🇨🇦Canada, server: 172.64.150.145, port: 443, type: trojan, password: bpb-trojan, sni: mindrOOm-5cz.pAgEs.dEV, skip-cert-verify: false, network: ws, ws-opts: {path: /trC8BM8bTsAF0AnLYL, headers: {Host: mindrOOm-5cz.pAgEs.dEV}}}
   - {name: 🇺🇸 |US|美国|@wxgqlfx|36, server: 172.64.150.145, port: 443, type: trojan, password: bpb-trojan, sni: mindrOOm-5cz.pAgEs.dEV, skip-cert-verify: false}
   - {name: All-@V2ray_Alpha-11, server: 172.64.150.145, port: 443, type: trojan, password: bpb-trojan, sni: mindrOOm-5cz.pAgEs.dEV, skip-cert-verify: false}
   - {name: Vpnfree6_121, server: 172.64.153.235, port: 2053, type: trojan, password: bpb-trojan, sni: bpB-worKER-paneL1-e4p.pAGes.dEV, skip-cert-verify: false}
@@ -318,7 +316,6 @@
   - {name: All-@V2ray_Alpha-17, server: 172.67.180.238, port: 443, type: trojan, password: bpb-trojan, sni: 403b3611-99BC-43B7-88d7-26eD5D0825A9-3.PAges.DEV, skip-cert-verify: false}
   - {name: "@APPSOONER کانال تلگرام 🇫🇮", server: 185.176.24.2, port: 443, type: trojan, password: bpb-trojan, sni: 403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV, skip-cert-verify: false}
   - {name: All-@V2ray_Alpha-15, server: 185.176.24.2, port: 443, type: trojan, password: bpb-trojan, sni: 403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV, skip-cert-verify: false}
-  - {name: ConfigV2RayNG 5, server: 185.176.24.2, port: 443, type: trojan, password: bpb-trojan, sni: 403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV, skip-cert-verify: false}
   - {name: "@fast_2ray 👈سرورهای‌بیشتر 4", server: 185.176.24.2, port: 443, type: trojan, password: bpb-trojan, sni: 403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV, skip-cert-verify: false}
   - {name: "@V_2rayng0 قط شدی بیا اینجا 2", server: 185.238.228.6, port: 443, type: trojan, password: bpb-trojan, sni: 403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv, skip-cert-verify: false}
   - {name: "@appsooner کانال تلگرام 🇺🇲", server: 185.238.228.6, port: 443, type: trojan, password: bpb-trojan, sni: 403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv, skip-cert-verify: false}
@@ -361,6 +358,8 @@
   - {name: TAVANATECH, server: b.mg.us.cat77.cloud, port: 5215, type: trojan, password: cd27884b-c5af-34ec-b75f-8248077818fe, skip-cert-verify: false}
   - {name: Trojan_gRPC 4, server: singapore.artunnel57.host, port: 443, type: trojan, password: ceffeae2-facc-4ce9-a7ee-554db02e619d, sni: singapore.artunnel57.host, skip-cert-verify: false}
   - {name: TG:@v2ray_sub 5, server: jp008.421421.xyz, port: 20230, type: trojan, password: cf13832b-4ca0-4fee-8e85-2b2411104e75, sni: 421421.xyz, skip-cert-verify: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 4, server: us004.421421.xyz, port: 20230, type: trojan, password: cf13832b-4ca0-4fee-8e85-2b2411104e75, skip-cert-verify: false}
+  - {name: کانال سرور رایگان @FarahVPN, server: us004.421421.xyz, port: 20230, type: trojan, password: cf13832b-4ca0-4fee-8e85-2b2411104e75, skip-cert-verify: false}
   - {name: 🇺🇸 US, server: 170-187-134-190.ipv4.rush.ml, port: 8443, type: trojan, password: cf4295378e209e70d12c5bdd017144dfd1c772d3, sni: 170-187-134-190.ipv4.rush.ml, skip-cert-verify: false}
   - {name: BESHKAN 10, server: 170-187-134-190.ipv4.rush.ml, port: 8443, type: trojan, password: cf4295378e209e70d12c5bdd017144dfd1c772d3, skip-cert-verify: false}
   - {name: 🇺🇸 US 2, server: 18-222-63-50.ipv4.rush.ml, port: 8443, type: trojan, password: cf4295378e209e70d12c5bdd017144dfd1c772d3, sni: 18-222-63-50.ipv4.rush.ml, skip-cert-verify: false}
@@ -377,9 +376,15 @@
   - {name: Trojan_WS_tls 3, server: uae.artunnel57.host, port: 443, type: trojan, password: dcc63659-8091-4afa-a598-af46ade91f94, sni: uae.artunnel57.host, skip-cert-verify: false}
   - {name: Trojan_WS_ntls 3, server: uae.artunnel57.host, port: 80, type: trojan, password: dcc63659-8091-4afa-a598-af46ade91f94, skip-cert-verify: false}
   - {name: "@disconnectedconfig-mtn 8", server: 198.244.252.93, port: 443, type: trojan, password: de5a47b3e2, sni: uk1.connecton.surf, skip-cert-verify: false}
+  - {name: ConfigV2RayNG 3, server: 135.84.79.80, port: 443, type: trojan, password: dns68, sni: trojan.putata.us.kg, skip-cert-verify: false}
+  - {name: ConfigV2RayNG 4, server: 199.68.156.68, port: 443, type: trojan, password: dns68, sni: trojan.putata.us.kg, skip-cert-verify: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 5, server: 199.68.156.69, port: 443, type: trojan, password: dns68, sni: trojan.putata.us.kg, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.putata.us.kg}}}
+  - {name: ConfigV2RayNG 5, server: 199.68.156.69, port: 443, type: trojan, password: dns68, sni: trojan.putata.us.kg, skip-cert-verify: false}
+  - {name: ConfigV2RayNG 6, server: 206.238.237.1, port: 2087, type: trojan, password: dns68, sni: trojan.putata.us.kg, skip-cert-verify: false}
   - {name: 98 @tizjo, server: 43.198.148.59, port: 8099, type: trojan, password: dns68, sni: trojan.putata.us.kg, skip-cert-verify: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 5, server: 66.179.48.88, port: 443, type: trojan, password: dns68, sni: trojan.putata.us.kg, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.putata.us.kg}}}
-  - {name: 🇺🇸 @v2ray_configs_pool📡🇺🇸United States, server: 66.179.48.88, port: 443, type: trojan, password: dns68, sni: trojan.putata.us.kg, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.putata.us.kg}}}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 6, server: 66.179.48.88, port: 443, type: trojan, password: dns68, sni: trojan.putata.us.kg, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.putata.us.kg}}}
+  - {name: ConfigV2RayNG 7, server: 66.179.48.88, port: 443, type: trojan, password: dns68, sni: trojan.putata.us.kg, skip-cert-verify: false}
+  - {name: ConfigV2RayNG 8, server: visa.cn, port: 443, type: trojan, password: dns68, sni: trojan.putata.us.kg, skip-cert-verify: false}
   - {name: 🇫🇷 FR-51.91.11.29-0970, server: 51.91.11.29, port: 80, type: trojan, password: e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad, sni: $fr1.trojanvh.xyz, skip-cert-verify: false}
   - {name: mci ✅, server: t3.teslacdn2.live, port: 443, type: trojan, password: e1c12e6f-a555-4ff8-b071-1e09dd5d91e6, sni: t3.teslacdn2.live, skip-cert-verify: false}
   - {name: BESHKAN 11, server: t3.teslacdn2.live, port: 443, type: trojan, password: e1c12e6f-a555-4ff8-b071-1e09dd5d91e6, sni: t3.teslacdn2.live, skip-cert-verify: false}
@@ -453,7 +458,7 @@
   - {name: 🇬🇧 @SATARVPN_bot🇬🇧 GB 81ms, server: 18.134.104.70, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: Tel Channel👉 configsCenter 5, server: 18.156.11.169, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: 🇬🇧 @SATARVPN_bot 🇬🇧 GB 80ms, server: 18.170.178.186, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 6, server: 18.191.20.50, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 7, server: 18.191.20.50, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: "Our Channel : @DirectVPN 5", server: 18.191.20.50, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: Tel Channel👉 configsCenter 6, server: 18.199.136.176, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: 🇮🇪 爱尔兰1, server: 18.203.118.190, port: 22222, type: trojan, password: telegram-id-directvpn, skip-cert-verify: false}
@@ -493,8 +498,7 @@
   - {name: "@disconnectedconfig-irancell 7", server: 13.36.121.210, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: false}
   - {name: _定制专线：@Alin006Bot 6, server: 13.36.193.45, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: _定制专线：@QS00008 6, server: 13.36.193.45, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 7, server: 13.36.217.42, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: کانال سرور رایگان @FarahVPN, server: 13.36.217.42, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 8, server: 13.36.217.42, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: (S116)🇨🇵t.me/PrivateVPNs, server: 13.36.217.42, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: (S127)🇨🇵, server: 13.39.52.3, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: false}
   - {name: KU6(@Outline_Vpn), server: 13.40.99.61, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: false}
@@ -502,7 +506,7 @@
   - {name: 🇬🇧 @SATARVPN_bot 🇬🇧 GB 83ms, server: 13.43.214.20, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: _定制专线：@Alin006Bot 7, server: 13.48.153.146, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: _定制专线：@QS00008 7, server: 13.48.153.146, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 8, server: 13.48.184.250, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 9, server: 13.48.184.250, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: "🇸🇪 Sweden-کانال تلگرام: @V2rayweb", server: 13.48.216.189, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false}
   - {name: (S856)🇸🇪t.me/vmess_iran, server: 13.48.5.87, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: false}
   - {name: (S112)🇸🇪t.me/PrivateVPNs, server: 13.49.105.152, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
@@ -577,9 +581,8 @@
   - {name: (S130)🇨🇮, server: 52.211.21.186, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: false}
   - {name: _定制专线：@Alin006Bot 18, server: 52.214.235.82, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: _定制专线：@QS00008 17, server: 52.214.235.82, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 9, server: 52.31.217.158, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: t.me/entryNET 3, server: 52.31.217.158, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: کانال سرور رایگان @FarahVPN 2, server: 52.31.217.158, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 10, server: 52.31.217.158, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: t.me/entryNET 2, server: 52.31.217.158, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: (S110)🇨🇮t.me/PrivateVPNs, server: 52.31.217.158, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: (S109)🇨🇮t.me/ehsawn8 2, server: 52.50.140.173, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: Tel Channel👉 configsCenter 13, server: 52.56.127.140, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
@@ -627,8 +630,7 @@
   - {name: "@wmessorg 2", server: VPNCUSTOMIZE.ddns.net, port: 2096, type: trojan, password: wXy5OyUd2g, sni: V2.loveislam.top, skip-cert-verify: false}
   - {name: "@disconnectedconfig-irancell02.06", server: 207.246.68.67, port: 443, type: trojan, password: wkmY1R4EcP, sni: z-v2-003338.kailib.com, skip-cert-verify: false}
   - {name: "@disconnectedconfig-irancell02.12", server: 209.250.246.191, port: 443, type: trojan, password: wkmY1R4EcP, sni: z-v2-003294.kailib.com, skip-cert-verify: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 10, server: 216.128.147.13, port: 443, type: trojan, password: wkmY1R4EcP, sni: z-v2-003274.kailib.com, skip-cert-verify: false}
-  - {name: ⚜️Telegram:@IP_CF 2, server: 216.128.147.13, port: 443, type: trojan, password: wkmY1R4EcP, sni: z-v2-003274.kailib.com, skip-cert-verify: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 11, server: 216.128.147.13, port: 443, type: trojan, password: wkmY1R4EcP, sni: z-v2-003274.kailib.com, skip-cert-verify: false}
   - {name: 🇺🇸 |US|美国|@wxgqlfx|114, server: 216.128.147.13, port: 443, type: trojan, password: wkmY1R4EcP, sni: z-v2-003274.kailib.com, skip-cert-verify: false}
   - {name: trand_farsi, server: 45.76.130.173, port: 443, type: trojan, password: wkmY1R4EcP, sni: z-v2-003289.kailib.com, skip-cert-verify: false}
   - {name: "@disconnectedconfig-irancell02.04", server: 66.42.84.121, port: 443, type: trojan, password: wkmY1R4EcP, sni: z-v2-002797.kailib.com, skip-cert-verify: false}
