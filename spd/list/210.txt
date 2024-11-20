@@ -1,8 +1,8 @@
   - {name: "🇵🇱 7,61,304|🇵🇱PL-77.83.246.74-5009 | 2.051MB", server: 77.83.246.74, port: 33320, type: ss, cipher: chacha20-ietf-poly1305, password: 7qLCP5op2SNc7NTUJmBkVL}
   - {name: "🇵🇱 7,9,155,158,304,306,312|SS-兰-NF解锁波兰自制剧-ChatGPT-TikTok-YouTube-45.144.48.63:57456", server: 45.144.48.63, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: d3837224ed465f00}
-  - {name: "🇵🇱 7,9,155,158,304,312|SS--NF解锁波兰自制剧-ChatGPT-TikTok-YouTube-45.144.48.58:57456", server: 45.144.48.58, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: d3837224ed465f00}
+  - {name: "🇵🇱 7,9,155,158,192,304,312|SS--NF解锁波兰自制剧-ChatGPT-TikTok-YouTube-45.144.48.58:57456", server: 45.144.48.58, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: d3837224ed465f00}
   - {name: "🇵🇱 9,155,158|🇵🇱PL-45.144.48.63-0353 | 2.102MB", server: war.ssvpnapp.win, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: d3837224ed465f00}
-  - {name: "18,19,66,102,106,109,113,155,156,157,164,165,166,168,173,174,193,194,195,251,312|VMESS->兰-195.85.59.161:80", server: 195.85.59.161, port: 80, type: vmess, uuid: a94171be-b387-4f02-a5ef-a1b4b7a26c04, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: open.alipay.ovh, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: open.alipay.ovh}}}
+  - {name: "18,66,70,106,113,155,156,157,164,166,168,173,174,251,312|VMESS->兰-195.85.59.161:80", server: 195.85.59.161, port: 80, type: vmess, uuid: a94171be-b387-4f02-a5ef-a1b4b7a26c04, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: open.alipay.ovh, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: open.alipay.ovh}}}
   - {name: 🇵🇱 37|🆔@LuxyNet💎❖🇱❖PL❖422, server: angel.samiixnet.link, port: 24766, type: vmess, uuid: 916c024c-3726-44d3-9eb0-62a848e72ee4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: angel.samiixnet.link}}}
   - {name: 🇵🇱 37|🆔@LuxyNet💎❖❖PL❖612, server: 51.83.186.142, port: 80, type: trojan, password: 555034c8-6420-45d0-893c-905c02342150, skip-cert-verify: false}
   - {name: "🇵🇱 37,155|🇵🇱PL-5.188.108.10-9077", server: 5.188.108.10, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
@@ -34,8 +34,7 @@
   - {name: 🇵🇱 117|🇵🇱_PL_波兰, server: 194.15.196.78, port: 8000, type: ss, cipher: aes-128-gcm, password: YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ}
   - {name: 🇵🇱 127|PL 🇵🇱 Warsaw, server: 217.138.209.122, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: CxgRTZRE5urVfbbnGSyr}
   - {name: "149,151,152|其他 163", server: 141.101.120.197, port: 80, type: vmess, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /blue06}}
-  - {name: 🇵🇱 155|🇱PL-217.30.10.18-0466, server: 217.30.10.18, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM}
-  - {name: "🇵🇱 155,164,165,168,173,174|🇵🇱PL-51.68.139.22-0821 #4", server: 51.68.139.22, port: 80, type: vmess, uuid: c6744c44-4eb7-48d5-a879-a10474e2ba34, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: 51.68.139.22, network: ws, ws-opts: {path: /vmess}}
+  - {name: "🇵🇱 155,164,168,173,174|🇵🇱PL-51.68.139.22-0821 #3", server: 51.68.139.22, port: 80, type: vmess, uuid: c6744c44-4eb7-48d5-a879-a10474e2ba34, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: 51.68.139.22, network: ws, ws-opts: {path: /vmess}}
   - {name: 🇵🇱 155|🇱PL-217.30.10.18-0883, server: 217.30.10.18, port: 9060, type: ss, cipher: aes-256-cfb, password: ueLXVkvh4hckhErQ}
   - {name: 🇵🇱 155|🇱PL-23.27.24.223-1794, server: soonpr.soon.guru, port: 40030, type: ss, cipher: chacha20-ietf-poly1305, password: 29fefcc3-9ae1-4e01-a1d0-534fc1671121}
   - {name: "🇵🇱 155,175|🇵🇱_PL_波兰_1", server: 51.77.53.200, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
@@ -61,7 +60,7 @@
   - {name: "🇵🇱 155,175|🇵🇱_PL_波兰_21", server: 51.77.53.200, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
   - {name: "🇵🇱 155,175|🇵🇱_PL_波兰_22", server: 51.77.53.200, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
   - {name: "🇵🇱 155,175|🇵🇱_PL_波兰_23", server: 51.77.53.200, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: "🇵🇱 155,164,165,168,173,174|🇵🇱PL-70.34.252.176-5197 #4", server: 70.34.252.176, port: 8081, type: vmess, uuid: 984ff24e-2bbb-4461-a761-bf8ccb77b80d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
+  - {name: "🇵🇱 155,164,168,173,174|🇵🇱PL-70.34.252.176-5197 #3", server: 70.34.252.176, port: 8081, type: vmess, uuid: 984ff24e-2bbb-4461-a761-bf8ccb77b80d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
   - {name: 🇵🇱 155|🇱PL-217.30.10.63-5284, server: 217.30.10.63, port: 9050, type: ss, cipher: aes-256-cfb, password: FG5ddLsMPbV5CutE}
   - {name: 🇵🇱 155|🇵🇱PL-217.30.10.65-5285, server: 217.30.10.65, port: 9061, type: ss, cipher: aes-256-cfb, password: 4R3hUfZ2FHhDmNcP}
   - {name: 🇵🇱 155|🇵🇱PL-217.30.10.63-5286, server: 217.30.10.63, port: 9038, type: ss, cipher: aes-256-cfb, password: gYCYXfkUQEs2TaJQ}
