@@ -1,16 +1,15 @@
-  - {name: "7,9,37,155,158,304|SE-121.127.46.147-3281 | 26.605MB", server: 121.127.46.147, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 7|SE-94.228.165.178-3399 | 3.1MB, server: 94.228.165.178, port: 58176, type: ss, cipher: chacha20-ietf-poly1305, password: afKAHp1VfRWZu91LIi9o0D}
-  - {name: "15,17,67,68,102,106,113,292,298,299,306,307|未知90 1.2MB/s #5", server: 46.38.137.16, port: 8443, type: vmess, uuid: 77402a7f-24e2-42d0-a66a-3747886b8f38, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: "37,155|🇸SE-37.19.222.214-9174", server: 37.19.222.214, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa}
-  - {name: "37,155|🇪SE-37.19.222.213-9175", server: 37.19.222.213, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa}
-  - {name: "37,155|🇸🇪SE-37.19.222.212-9176", server: 37.19.222.212, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa}
-  - {name: "37,155|🇸🇪SE-37.19.222.211-9177", server: 37.19.222.211, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa}
+  - {name: "7,9,37,155,158,304|SE-121.127.46.147-3456 | 2.181MB", server: 121.127.46.147, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: "37,155|🇸SE-37.19.222.214-9084", server: 37.19.222.214, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa}
+  - {name: "37,155|🇪SE-37.19.222.213-9085", server: 37.19.222.213, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa}
+  - {name: "37,155|🇸🇪SE-37.19.222.212-9086", server: 37.19.222.212, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa}
+  - {name: "37,155|🇸🇪SE-37.19.222.211-9087", server: 37.19.222.211, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa}
   - {name: 37|🆔@LuxyNet💎❖🇸🇪❖SE❖1361, server: 16.171.58.121, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: false}
   - {name: 37|🆔@LuxyNet💎❖🇸🇪❖SE❖1573, server: 13.50.16.231, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: false}
   - {name: 37|🆔@LuxyNet💎❖🇸🇪❖SE❖1575, server: 13.49.46.49, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: false}
   - {name: 37|🆔@LuxyNet💎❖🇸🇪❖SE❖1578, server: 13.49.224.224, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: false}
   - {name: 37|🆔@LuxyNet💎❖🇸🇪❖SE❖1584, server: 13.48.45.205, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: false}
   - {name: 37|🆔@LuxyNet💎❖🇸🇪❖SE❖1588, server: 13.48.105.114, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: false}
+  - {name: "🇺🇸 45,50,120,121,122|2|🇺🇸_US_美国 #3 #2", server: 148.135.40.190, port: 8080, type: vmess, uuid: f6c4905b-0308-4164-b1ad-4157531a8378, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
   - {name: 56|🔒 VM-TCP-NONE 🌍 SE-5.42.85.62:39909 📡 PING-182.16-MS, server: 5.42.85.62, port: 39909, type: vmess, uuid: a8badbeb-aae7-48b4-9a70-6b59c8eebc7d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: "93,131,155,162,165,168,174,231,242|8J%2BHuPCfh6pTRS0xMy40OS43Ny4xMjYtNjE4NA%3D%3D", server: z0117.security-cloudfront-cdn.com, port: 42833, type: ssr, cipher: aes-256-cfb, password: YpX2opBbrfqJzzMs, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: ""}
   - {name: "93,206|MOHSEN-🇸🇪-SE_7", server: se-ls03.nb1.fr, port: 64443, type: vmess, uuid: cb7001c7-e495-41ac-b942-f25f60523414, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /clientarea, headers: {Host: se-ls03.nb1.fr}}}
@@ -186,5 +185,7 @@
   - {name: 215|🇸🇪@trojaan_vpn, server: se.walidfree16.workers.dev, port: 443, type: vmess, uuid: 66437555-d282-40a9-a25b-d218cc6041ae, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: se.walidfree16.workers.dev, network: ws, ws-opts: {path: /se1.v2-ray.us/vmess, headers: {Host: se.walidfree16.workers.dev}}}
   - {name: 215|@ho3ino00🇸🇪Stockholm-1061, server: 13.48.150.165, port: 48597, type: vmess, uuid: da5292f7-3ef1-4f53-8f12-83ac48aba27e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: grpc, servername: "", grpc-opts: {grpc-service-name: /}}
   - {name: 231|6aaZ5rivSEtULWRpcA, server: 112.33.52.63, port: 42833, type: ssr, cipher: aes-256-cfb, password: YpX2opBbrfqJzzMs, protocol: origin, obfs: http_simple, protocol-param: dC5tZS92cG5oYXQ, obfs-param: d3d3Lm1pY3Jvc29mdC5jb20jVXNlci1BZ2VudDogTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxMV80XzEgbGlrZSBNYWMgT1MgWCkgQXBwbGVXZWJLaXQvNjAyLjQuNiAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vMTAuMCBNb2JpbGUvMTREMjcgTWljcm9NZXNzZW5nZXIvNi41LjEzCkFjY2VwdDogLwpDb25uZWN0aW9uOiBrZWVwLWFsaXZl}
+  - {name: "304,306|未知36", server: 94.228.165.178, port: 58176, type: ss, cipher: chacha20-ietf-poly1305, password: afKAHp1VfRWZu91LIi9o0D}
   - {name: 308|SE 1|openitr, server: Back.MsV2ray.online, port: 80, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /obdii.cfd/linkws, headers: {Host: Back.MsV2ray.online}}}
   - {name: "🇸🇪 310|[02-24]-🇪-瑞典-180-167.88.63.17", server: 167.88.63.17, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: 🇸🇪 312|SS--NF解锁瑞典自制剧-ChatGPT-TikTok-YouTube-46.246.98.155:44013, server: 46.246.98.155, port: 44013, type: ss, cipher: chacha20-ietf-poly1305, password: UDcjYQ6Z6AIWxViZpqyOmO}
