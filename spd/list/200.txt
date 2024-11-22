@@ -1,8 +1,10 @@
-  - {name: "38,156|CZ-212.102.38.88-9245", server: 212.102.38.88, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa}
-  - {name: "38,156|🇨CZ-212.102.38.41-9246", server: 212.102.38.41, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa}
-  - {name: "38,156|🇿CZ-195.123.246.15-9298", server: 195.123.246.15, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: cyi4FDe4FdrTG3rUpna}
-  - {name: "38,156|CZ-143.244.58.102-9631", server: 143.244.58.102, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa}
-  - {name: 128|CZ 🇨🇿 Prague, server: 217.138.199.138, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: S4w7wHjBRxCVkxZLgTaN}
-  - {name: "150,152,153|其他 227", server: iran01.biqibao.site, port: 2052, type: vmess, uuid: 4931e941-77c6-4144-a8b9-5c252ee36c30, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/public?ed=4096", headers: {Host: iran01.biqibao.site}}}
-  - {name: "150,152,153|其他 278", server: 92.118.149.115, port: 25131, type: vmess, uuid: ece8262a-141f-42f6-8dcf-e9b7a2028086, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: "🇨🇿 202,216|🇨🇿_CZ_捷克 #2", server: 194.87.169.8, port: 65514, type: vmess, uuid: d03cccfc-9be6-43b4-88d2-3023872bd43b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: "39,188|CZ-212.102.38.88-9245", server: 212.102.38.88, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa}
+  - {name: "39,188|🇨CZ-212.102.38.41-9246", server: 212.102.38.41, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa}
+  - {name: "39,188|🇿CZ-195.123.246.15-9298", server: 195.123.246.15, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: cyi4FDe4FdrTG3rUpna}
+  - {name: "39,188|CZ-143.244.58.102-9631", server: 143.244.58.102, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa}
+  - {name: 129|CZ 🇨🇿 Prague, server: 217.138.199.138, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: S4w7wHjBRxCVkxZLgTaN}
+  - {name: 152|Relay_🏁ZZ-🇨🇿CZ_624 | 4.43Mb, server: hypdv.whmvmkwuey.store, port: 443, type: vmess, uuid: 9d655d30-cfad-4cda-82d6-9028ab41907d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hypdv.whmvmkwuey.store}}}
+  - {name: 168|SS-TCP-NA 🇨🇿 CZ-195.181.160.6:990, server: 195.181.160.6, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+  - {name: "182,184,185|其他 227", server: iran01.biqibao.site, port: 2052, type: vmess, uuid: 4931e941-77c6-4144-a8b9-5c252ee36c30, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/public?ed=4096", headers: {Host: iran01.biqibao.site}}}
+  - {name: "182,184,185|其他 278", server: 92.118.149.115, port: 25131, type: vmess, uuid: ece8262a-141f-42f6-8dcf-e9b7a2028086, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: "🇨🇿 234,248|🇨🇿_CZ_捷克 #2", server: 194.87.169.8, port: 65514, type: vmess, uuid: d03cccfc-9be6-43b4-88d2-3023872bd43b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
