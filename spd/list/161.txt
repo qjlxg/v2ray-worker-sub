@@ -1,18 +1,12 @@
-  - {name: "1,2,3,56,59,74,76,79,80,86,107,109,110,129,208,244,247,270,286,375,376,377,378,464,473|8J%2BHr%2FCfh7VKUC0xMy4yMzEuMT...", server: jp-am48-6.eqnode.net, port: 8081, type: ssr, cipher: aes-256-cfb, password: eAokbaDN6, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
+  - {name: "1,2,3,56,59,74,76,79,80,86,107,109,110,129,193,208,244,247,270,286,375,376,377,378,464,473|8J%2BHr%2FCfh7VKUC0xMy4yMzEuMT...", server: jp-am48-6.eqnode.net, port: 8081, type: ssr, cipher: aes-256-cfb, password: eAokbaDN6, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
   - {name: "1,186,209|[VMess] JP_779", server: 92.38.178.93, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, servername: 92.38.178.93, network: ws, ws-opts: {path: linkvws}}
-  - {name: 3|ChatGPT  JP_285, server: 00000000000000000000000001.node-for-smallairport.win, port: 13389, type: vmess, uuid: ab0ab89d-de80-44bd-b938-cafda772976d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 00000000000000000000000001.node-for-smallairport.win}}}
   - {name: 🇯🇵 4|JP |  LB-1Y, server: jpcft01.xqc.best, port: 443, type: vmess, uuid: 4b62c727-90f9-49b1-a919-b7d7aa45ea0a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: d17ttua58dfmz.cloudfront.net, network: ws, ws-opts: {path: /stream, headers: {Host: d17ttua58dfmz.cloudfront.net}}}
-  - {name: "6,121,186|BE_482", server: 57.180.42.246, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "6,186|JP_643", server: 35.77.100.154, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "6,186|JP_640", server: 18.177.142.239, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "6,186|JP_650", server: 54.248.142.136, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "6,186|JP_637", server: 13.231.227.176, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "6,186|JP_638", server: 54.168.231.174, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "🇯🇵 6,101,102,110,187,375|🇵JP-54.199.66.30-1891 #1", server: 54.199.66.30, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "6,186|netflix_JP #9", server: 18.183.217.223, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "6,186|JP_647", server: 52.196.65.55, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "6,186|JP_635", server: 13.231.232.11, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "6|netflix_JP #8", server: 43.207.163.206, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: "6,186|JP_606", server: 54.168.231.174, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: "6,186|JP_611", server: 13.231.227.176, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 6|JP_186, server: 54.248.142.136, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: "🇯🇵 6,101,102,110,186,375|🇵JP-54.199.66.30-1891 #1", server: 54.199.66.30, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: "6,186|JP_609", server: 18.177.142.239, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: "🇯🇵 6,24,110,111,161,187,375|🇯🇵JP-3.112.124.200-0708 #1", server: 3.112.124.200, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: "🇦🇺 8,65,76,93,218,219,288,374|🇦🇺 澳大利亚 005", server: 140.83.63.38, port: 24445, type: vmess, uuid: 94c5ef37-4d82-49f9-c624-f01259374a17, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: "🇯🇵 18,110,375|🇵JP-89.31.126.150-0179 #1", server: 89.31.126.150, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: "🇯🇵 18,110,375|🇯🇵JP-45.66.134.176-0180 #1", server: 45.66.134.176, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
@@ -34,10 +28,9 @@
   - {name: "🇯🇵 18,110,375|🇯🇵JP-185.160.24.217-0196 #1", server: 185.160.24.217, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 🇯🇵 18|🇯🇵 Relay_🇯🇵JP-🇯🇵JP_384, server: vjp1.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /chat, headers: {Host: vjp1.0bad.com}}}
   - {name: 🇯🇵 18|🇯🇵 Relay_🇯🇵JP-🇯🇵JP_385, server: vjp3.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /chat, headers: {Host: vjp3.0bad.com}}}
-  - {name: "🇯🇵 23,110,121,163,186,296,375|🇵JP-54.64.20.76-1304 #1", server: 54.64.20.76, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "🇯🇵 23,24,110,111,121,163,186,187,296,375|🇵JP-13.231.108.239-1305 #1", server: 13.231.108.239, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "🇯🇵 23,24,110,111,121,163,186,296,375|🇯🇵JP-52.195.4.43-1306 #1", server: 52.195.4.43, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "🇯🇵 24,110,111,161,187,375|🇯🇵JP-3.112.124.200-0708 #1", server: 3.112.124.200, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: "🇯🇵 23,110,121,163,186,187,296,375|🇵JP-54.64.20.76-1304 #1", server: 54.64.20.76, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: "🇯🇵 23,24,110,111,121,163,296,375|🇵JP-13.231.108.239-1305 #1", server: 13.231.108.239, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: "🇯🇵 23,24,110,111,121,163,296,375|🇯🇵JP-52.195.4.43-1306 #1", server: 52.195.4.43, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: "🇯🇵 37,74,107,110,162,170,304,375,376,378|🇯🇵JP-8.209.250.150-1214 #3", server: 8.209.250.150, port: 443, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /obdii.cfd:443/linkws, headers: {Host: e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com}}}
   - {name: "🇯🇵 37,162,304|日本 006 #2", server: 45.159.50.143, port: 11304, type: vmess, uuid: d1625892-8e9f-41fa-8ad8-6cc464fd52a6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇯🇵 45|🇯🇵 10|🇯🇵 日本特殊|@ripaojiedian, server: 13.212.113.208, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
@@ -170,7 +163,6 @@
   - {name: "🇯🇵 101,102|🇯🇵 日本_10 #1", server: 231103level2.unclemanco.com, port: 813, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 212f6103045.download.windowsupdate.com}}
   - {name: "🇯🇵 101,102|🇯🇵 日本_11 #1", server: 231103level3.unclemanco.com, port: 907, type: ss, cipher: aes-128-gcm, password: ayucles1, plugin: obfs, plugin-opts: {mode: http, host: 212f6103045.download.windowsupdate.com}}
   - {name: "🇯🇵 101,102|🇯🇵 日本_12 #1", server: 231103level1.unclemanco.com, port: 912, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 212f6103045.download.windowsupdate.com}}
-  - {name: "101,102,121,186|US_1150", server: 43.206.238.246, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: "🇯🇵 101,102|🇯🇵 日本_14 #1", server: 231103level1.unclemanco.com, port: 840, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 212f6103045.download.windowsupdate.com}}
   - {name: "🇯🇵 101,102|🇯🇵 日本_16 #1", server: 231103level3.unclemanco.com, port: 823, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 212f6103045.download.windowsupdate.com}}
   - {name: "🇯🇵 101,102|🇯🇵 日本_17 #1", server: 231103level3.unclemanco.com, port: 9021, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 212f6103045.download.windowsupdate.com}}
@@ -293,6 +285,7 @@
   - {name: "🇯🇵 121,122|TG频道@mfbpn-0229-JP", server: jp2.lvuy.xyz, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: DQOhoPIAlRWM11GH}
   - {name: "🇯🇵 121,122|TG频道@mfbpn-0230-JP", server: jp3.lvuy.xyz, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: DQOhoPIAlRWM11GH}
   - {name: "🇯🇵 121,122|TG频道@mfbpn-0231-JP", server: jp4.lvuy.xyz, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: DQOhoPIAlRWM11GH}
+  - {name: 🇯🇵 121|TG频道@mfbpn-1242-JP, server: 57.180.42.246, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇯🇵 122|TG频道@mfbpn-0015-JP, server: 85.208.108.59, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
   - {name: 🇯🇵 122|TG频道@mfbpn-0019-JP, server: 185.172.113.101, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 🇯🇵 122|TG频道@mfbpn-0020-JP, server: 185.172.113.106, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
@@ -308,9 +301,9 @@
   - {name: 🇯🇵 122|TG频道@mfbpn-1168-JP, server: 52.69.37.205, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇯🇵 122|TG频道@mfbpn-1214-JP, server: 13.231.36.179, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇯🇵 122|TG频道@mfbpn-1215-JP, server: 3.112.237.254, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇯🇵 122|TG频道@mfbpn-1216-JP, server: jp01.thomasina.buzz, port: 80, type: vmess, uuid: fddfab81-22bb-4d33-8e95-933c8c81b2ad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: jp01.thomasina.buzz}}}
-  - {name: 🇯🇵 122|TG频道@mfbpn-1217-JP, server: jp03.thomasina.buzz, port: 80, type: vmess, uuid: fddfab81-22bb-4d33-8e95-933c8c81b2ad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: jp03.thomasina.buzz}}}
-  - {name: 🇯🇵 122|TG频道@mfbpn-1218-JP, server: 43.207.118.251, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: "🇯🇵 122|TG频道@mfbpn-1216-JP #1", server: jp01.thomasina.buzz, port: 80, type: vmess, uuid: fddfab81-22bb-4d33-8e95-933c8c81b2ad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: jp01.thomasina.buzz}}}
+  - {name: "🇯🇵 122|TG频道@mfbpn-1217-JP #1", server: jp03.thomasina.buzz, port: 80, type: vmess, uuid: fddfab81-22bb-4d33-8e95-933c8c81b2ad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: jp03.thomasina.buzz}}}
+  - {name: "🇯🇵 122|TG频道@mfbpn-1218-JP #1", server: 43.207.118.251, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: "🇯🇵 127,477|github.com/freefq - 日本东京Linode... #1", server: v6.583181.xyz, port: 80, type: vmess, uuid: 561d9533-e20a-4ff0-83d4-80d0cc588dfb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: v6.583181.xyz}}}
   - {name: "🇯🇵 127,147,149,150,249,411|日本-255.2KB/s_334_334", server: 61.120.9.18, port: 43720, type: vmess, uuid: f248d0e9-19f7-ea7f-6659-17a610dfe8d6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: "🇯🇵 142,144,147|🇯🇵JP-94.177.131.137-60126 #3", server: hk0106.alibabaokz.com, port: 60126, type: vmess, uuid: 9f6a22da-890b-4b65-b36a-b9c5377c434d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
@@ -346,11 +339,11 @@
   - {name: "🇦🇺 165,287,374|🇦🇺 澳大利亚 015", server: 140.83.86.129, port: 80, type: vmess, uuid: 8700cfbd-71dc-42b0-84f2-53cd7fe5645b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
   - {name: "🇯🇵 167|🇯🇵 Japan #01 *NF", server: 122.192.189.41, port: 40000, type: vmess, uuid: 7c6f2348-0ebd-3a1f-a8a0-c3b5629c2e0b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 167.179.68.118}}}
   - {name: "170,240|[1808.ga]二爷免费翻墙网https://1808.f... #31", server: 146.56.43.53, port: 443, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com, network: ws, ws-opts: {path: /obdii.cfd:443/linkws, headers: {Host: e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com}}}
-  - {name: 186|JP_642, server: 172.105.199.111, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6}
-  - {name: "186|netflix_JP #10", server: 3.112.215.69, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 186|JP_648, server: 45.12.207.208, port: 8448, type: ss, cipher: aes-256-gcm, password: 3426362sED92Yty14d86a}
-  - {name: "186|netflix_JP #11", server: 52.199.202.220, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 186|JP_652, server: 18.183.139.216, port: 443, type: trojan, password: "!!str 3648425794742788096", sni: optimum-whippet.squid592.motorcycles, skip-cert-verify: false}
+  - {name: 186|JP_607, server: 35.77.100.154, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 186|JP_608, server: 3.112.215.69, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 186|JP_612, server: 172.105.199.111, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6}
+  - {name: 186|JP_614, server: 18.183.139.216, port: 443, type: trojan, password: "!!str 3648425794742788096", sni: optimum-whippet.squid592.motorcycles, skip-cert-verify: false}
+  - {name: 193| JP_425, server: 92.38.178.93, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, servername: 92.38.178.93, network: ws, ws-opts: {path: linkvws}}
   - {name: "209,249|🎲39@oneclickvpnkeys", server: jpvbshohcgc.com, port: 443, type: vmess, uuid: fa1897db-1925-4c86-a495-939a959af900, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: jpvbshohcgc.com, network: ws, ws-opts: {path: /rbqqvws, headers: {Host: jpvbshohcgc.com}}}
   - {name: 🇯🇵 218|JP(AzadNet.t.me)_001, server: 133.242.55.38, port: 443, type: trojan, password: 7a73f1dc97a70905870c0c0484b12145, skip-cert-verify: false}
   - {name: 🇯🇵 218|🇵JP(AzadNet.t.me)_002, server: 49.212.204.123, port: 443, type: trojan, password: 18844@zxcvbn, skip-cert-verify: false}
