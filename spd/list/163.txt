@@ -30,6 +30,7 @@
   - {name: "🇵🇱 59,60,61,62,63,64,65|🇵🇱 PL warp ◈ ws:8880 ◈ 7571a #6", server: speed.cloudflare.com, port: 8880, type: vmess, uuid: 4b5e4565-322f-4223-a891-78a84f189726, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /r8ykwif5rffiqJeJ49zLQtAUESmka7PbhWz3wiHs8cSeiRyZL, headers: {Host: pl-a.yuji2022.eu.org}}}
   - {name: "🇵🇱 60,61,63,64,65|💰💥🇵🇱 PL 146.59.55.50 ◈ ws:443 ... #16", server: 146.59.55.50, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, network: ws, ws-opts: {path: /linkvws, headers: {Host: max.mankadmu.com}}}
   - {name: "🇵🇱 60,61,63,64,65|💰💥🇵🇱 PL 146.59.55.50 ◈ ws:443 ... #14", server: 146.59.55.50, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, network: ws, ws-opts: {path: /linkvws, headers: {Host: me.kalakatha.org}}}
+  - {name: "🇵🇱 66,67|🇵🇱 波兰 #1", server: 231103levelx.unclemanco.com, port: 2205, type: ss, cipher: aes-128-gcm, password: "dajkdkjda&dja*/?", plugin: obfs, plugin-opts: {mode: http, host: b3e30103225.download.windowsupdate.com}}
   - {name: "🇵🇱 72,75,276,277,279|🇵🇱PL-51.68.139.22-0542 #2", server: 51.68.139.22, port: 80, type: vmess, uuid: c6744c44-4eb7-48d5-a879-a10474e2ba34, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: 51.68.139.22, network: ws, ws-opts: {path: /vmess}}
   - {name: "🇵🇱 72,75,276,277,279|🇵🇱PL-70.34.252.176-4819 #2", server: 70.34.252.176, port: 8081, type: vmess, uuid: 984ff24e-2bbb-4461-a761-bf8ccb77b80d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
   - {name: "75,76,276,368|SS--NF解锁兰自制剧-ChatGPT-TikTok-Yo...", server: 45.144.48.63, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: d3837224ed465f00}
@@ -76,14 +77,14 @@
   - {name: "🇷🇺 75,276,365|[02-24]-🇺-俄罗斯-045-217.30.10.63", server: 217.30.10.63, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7}
   - {name: "🇵🇱 75,131,276|🇱PL-51.77.53.200-6181 #1", server: 51.77.53.200, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: "🇵🇱 75,131,183,276|🇱PL-51.77.53.200-6182 #1", server: 51.77.53.200, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: "🇵🇱 75,86,87,131,276|🇱PL-51.77.53.200-6185 #1", server: 51.77.53.200, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: "75,86,87,131,276,359|未知56 224.0KB/s", server: 51.77.53.200, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: "86,87,257|_RU_", server: 217.30.10.18, port: 9033, type: ss, cipher: aes-256-cfb, password: UTJA57ypk2XKQpnm}
   - {name: 🇵🇱 87|TG频道@mfbpn-1222-PL, server: 217.30.10.18, port: 9060, type: ss, cipher: aes-256-cfb, password: ueLXVkvh4hckhErQ}
   - {name: "🇷🇺 87,183|🇷🇺 RU 51 → tg@nicevpn123", server: 217.30.10.18, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM}
   - {name: "🇯🇵 107,108,109|🇯🇵JP-94.177.131.137-60237", server: hk0107.alibabaokz.com, port: 60237, type: vmess, uuid: 721aa9ac-f657-4b91-aebc-f872f621aa78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇵🇱 110|🇵🇱PL-31.186.87.211-14654, server: 128.204.223.43, port: 14654, type: vmess, uuid: a6908164-5a97-4238-ef8e-44e42d2111c2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: "111,112,113,114,162|🏁RELAY-195.85.59.161-1887", server: go.alipay.ovh, port: 80, type: vmess, uuid: a94171be-b387-4f02-a5ef-a1b4b7a26c04, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: open.alipay.ovh}}}
-  - {name: "🇵🇱 131,183|🇵🇱 PL 18 → tg@nicevpn123", server: 51.77.53.200, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: "131,183,359|未知16 457.7KB/s", server: 51.77.53.200, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
   - {name: 🇵🇱 131|🇱PL(AzadNet.t.me)_010, server: 51.77.53.200, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
   - {name: 🇵🇱 131|🇱PL(AzadNet.t.me)_017, server: 51.77.53.200, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
   - {name: 🇵🇱 131|🇱PL(AzadNet.t.me)_022, server: 51.77.53.200, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
