@@ -1,16 +1,13 @@
-  - {name: 85|SS-TCP-NA 🇨🇭 CH-195.15.243.125..., server: 195.15.243.125, port: 5555, type: ss, cipher: chacha20-ietf-poly1305, password: AdcivTASb8XWqRKubWaz2w}
-  - {name: 67|19|🔒 VM-TCP-NA 🇨🇭 CH-94.131.99..., server: 94.131.99.8, port: 47182, type: vmess, uuid: 81b2b630-8b6a-404f-b996-b12f13db5786, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: "37,38,39,40,45,61,85,92,97|CH_2131", server: 156.146.62.162, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: "37,39,40,63|CH_2126", server: 23.166.88.198, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: "40,61|ChatGPT  CH_25", server: 23.166.88.198, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: "37,39,40,45,61,63,85,97|CH_2130", server: 23.166.88.198, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
   - {name: 85|TR-WS-TLS 🇨🇭 CH-185.18.250.117..., server: 185.18.250.117, port: 443, type: trojan, password: 1e9aadae-ca17-4f75-b0a0-7de5e3858cfb, sni: xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/Telegram@V2ray_Alpha/?ed=2560", headers: {Host: xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev}}}
   - {name: 🇨🇭 72|bngan.com_🇨🇭_CH_瑞士_1-128, server: ch-server-01.f7256f.cn, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, sni: ch-server-01.f7256f.cn, skip-cert-verify: false}
-  - {name: "72|二爷免费翻墙网https://1808.free.hr/_C... #2", server: 141.148.203.6, port: 443, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /obdii.cfd:443/linkws}}
+  - {name: "37,38,40,45,61,85,92,97|CH_2374", server: 156.146.62.162, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: "37,39,40,63|CH_2373", server: 23.166.88.198, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇨🇭 72|瑞士_由快嘴科技提供：kkzui.com197, server: 141.148.203.6, port: 443, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /obdii.cfd:443/linkws}}
+  - {name: 🇨🇭 72|瑞士 苏黎世Oracle云计算数据中心_284, server: 140.238.212.95, port: 443, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /obdii.cfd:443/linkws}}
+  - {name: 67|19|🔒 VM-TCP-NA 🇨🇭 CH-94.131.99..., server: 94.131.99.8, port: 47182, type: vmess, uuid: 81b2b630-8b6a-404f-b996-b12f13db5786, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: "37,61,63| CH_2370", server: 23.166.88.198, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: "37,39,40,92| CH_2371", server: 23.166.88.198, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
   - {name: "58,80|CH-186.190.215.32-8011 | 31.98...", server: 186.190.215.32, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 186.190.215.32}}}
-  - {name: "37,39,40,61,63,85,92|CH_2128", server: 23.166.88.221, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: "72|二爷免费翻墙网https://1808.free.hr/_C... #1", server: 140.238.212.95, port: 443, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /obdii.cfd:443/linkws}}
-  - {name: "37,39,61| CH_2125", server: 23.166.88.5, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: "37,40,61,63|CH_2127", server: 23.166.88.198, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: "37,39,61,63|CH_2129", server: 23.166.88.198, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: "🇨🇭 70|[SS] 🇨🇭 _CH_瑞士", server: 84.17.53.163, port: 80, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa}
+  - {name: "37,38,39,40,45,61,92,97|CH_2372", server: 156.146.62.161, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: "40,61,63|ChatGPT  CH_23", server: 23.166.88.198, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
