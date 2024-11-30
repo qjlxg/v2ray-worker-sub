@@ -1,17 +1,31 @@
   - {name: "59,68,138,315|D-WEALTH-2386 #3", server: 143.198.18.35, port: 8881, type: vmess, uuid: db5afae4-ac23-41a6-8378-f307a9a47436, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: "145,276,574,575|LT 1|openitr", server: 91.149.236.44, port: 26639, type: vmess, uuid: 2cd01fcd-79f3-4ec4-8536-7802c6fcba08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /cctv13/hd.m3u8/}}
+  - {name: "145,574|21|_433", server: 46.183.184.60, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: "145,574|21|_434", server: 46.183.184.62, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: "162,355,376,574|21|_427", server: 46.183.185.15, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: "249,315,354,362,365,369,375,470|8J%2BHrvCfh7NJTi0xMy4yMzQuMjE3LjEyLTYzNjg%3D", server: z0114.security-cloudfront-cdn.com, port: 42833, type: ssr, cipher: aes-256-cfb, password: YpX2opBbrfqJzzMs, protocol: origin, obfs: http_simple, protocol-param: PT09PQ%3D%3D, obfs-param: PT09PQ%3D%3D}
   - {name: "249,315,354,362,365,369,375,470,579,581|Izc3MEYvQVMyMDI0MjU6IE5ldGhlcmxhbmRz #1", server: 94.102.57.163, port: 11708, type: ssr, cipher: aes-256-cfb, password: sEscPBiAD9K$&@79, protocol: origin, obfs: http_simple, protocol-param: V1dXLllPVU5FRUQuV0lO, obfs-param: V1dXLllPVU5FRUQuV0lO}
   - {name: "249,315,354,355,362,365,369,375,376,470|8J%2BHs%2FCfh7FOTC05NC4xMDIuNTcuMTYzLTE3NTk5", server: 94.102.57.163, port: 11708, type: ssr, cipher: aes-256-cfb, password: sEscPBiAD9K$&@79, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: ""}
-  - {name: 🇱🇹 292|🇱🇹_立陶宛_1, server: 185.148.104.114, port: 443, type: trojan, password: NISHIKUITAN111, skip-cert-verify: false}
-  - {name: 🇱🇹 292|🇱🇹_立陶宛_2, server: 185.148.107.67, port: 443, type: trojan, password: NISHIKUITAN111, skip-cert-verify: false}
-  - {name: 🇱🇹 292|🇱🇹_立陶宛_3, server: 185.148.106.44, port: 443, type: trojan, password: NISHIKUITAN111, skip-cert-verify: false}
+  - {name: 🇱🇹 292|🇱🇹_立陶宛_1, server: 185.148.105.154, port: 443, type: trojan, password: NISHIKUITAN111, skip-cert-verify: false}
+  - {name: 🇱🇹 292|🇱🇹_立陶宛_3, server: 185.148.107.11, port: 443, type: trojan, password: NISHIKUITAN111, skip-cert-verify: false}
+  - {name: 🇱🇹 292|🇱🇹_立陶宛_4, server: 88.216.66.169, port: 443, type: trojan, password: NISHIKUITAN111, skip-cert-verify: false}
+  - {name: 🇱🇹 292|🇱🇹_立陶宛_5, server: 89.116.250.94, port: 443, type: trojan, password: NISHIKUITAN111, skip-cert-verify: false}
+  - {name: 🇱🇹 292|🇱🇹_立陶宛_6, server: 88.216.66.169, port: 443, type: trojan, password: bpb-trojan, sni: bpb.my79801.com, skip-cert-verify: false}
+  - {name: 🇱🇹 292|🇱🇹_立陶宛_7, server: 88.216.67.148, port: 443, type: trojan, password: NISHIKUITAN111, skip-cert-verify: false}
+  - {name: 🇱🇹 292|🇱🇹_立陶宛_8, server: 89.116.180.246, port: 443, type: trojan, password: NISHIKUITAN111, skip-cert-verify: false}
+  - {name: 🇱🇹 292|🇱🇹_立陶宛_9, server: 185.176.24.104, port: 443, type: trojan, password: NISHIKUITAN111, skip-cert-verify: false}
+  - {name: 🇱🇹 292|🇱🇹_立陶宛_10, server: 89.116.46.33, port: 443, type: trojan, password: NISHIKUITAN111, skip-cert-verify: false}
+  - {name: 🇱🇹 292|🇱🇹_立陶宛_11, server: 185.148.107.151, port: 443, type: trojan, password: NISHIKUITAN111, skip-cert-verify: false}
+  - {name: 🇱🇹 292|🇱🇹_立陶宛_12, server: 89.117.112.181, port: 443, type: trojan, password: NISHIKUITAN111, skip-cert-verify: false}
+  - {name: 🇱🇹 292|🇱🇹_立陶宛_14, server: 89.116.46.33, port: 443, type: trojan, password: bpb-trojan, sni: bpb.my79801.com, skip-cert-verify: false}
+  - {name: 🇱🇹 292|🇱🇹_立陶宛_15, server: 89.117.112.181, port: 443, type: trojan, password: bpb-trojan, sni: bpb.my79801.com, skip-cert-verify: false}
+  - {name: 🇱🇹 292|🇱🇹_立陶宛_16, server: 185.148.107.67, port: 443, type: trojan, password: NISHIKUITAN111, skip-cert-verify: false}
   - {name: "315,354,355,364,365,369,374,375,376|🇹LT-85.206.165.36-0702 #1", server: 85.206.165.36, port: 443, type: vmess, uuid: ba49ab05-78f8-4b0b-9400-1826cc2d3f75, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
-  - {name: "315,354,355,364,365,369,374,375,376|LT-85.206.165.38-10205 #1", server: 85.206.165.38, port: 443, type: vmess, uuid: ba49ab05-78f8-4b0b-9400-1826cc2d3f75, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.83322971.xyz}}}
-  - {name: "🇱🇹 315,354,355,364,365,369,374,375,376,392|立陶宛 v2rayfree.eu.org", server: 85.206.165.35, port: 443, type: vmess, uuid: ba49ab05-78f8-4b0b-9400-1826cc2d3f75, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/173403330828, headers: {Host: www.83322971.xyz}}}
-  - {name: "333,355,376|🇹LT-45.87.175.154-0222 #1", server: 45.87.175.154, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
+  - {name: "315,354,355,364,369,374,375,376|LT-85.206.165.38-10205 #1", server: 85.206.165.38, port: 443, type: vmess, uuid: ba49ab05-78f8-4b0b-9400-1826cc2d3f75, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.83322971.xyz}}}
+  - {name: "🇱🇹 315,354,355,364,369,374,375,376,392|立陶宛 v2rayfree.eu.org", server: 85.206.165.35, port: 443, type: vmess, uuid: ba49ab05-78f8-4b0b-9400-1826cc2d3f75, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/173403330828, headers: {Host: www.83322971.xyz}}}
+  - {name: "333,355,376,572|未知62", server: 45.87.175.154, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
   - {name: "350,351,352|其他 560", server: 181.214.147.202, port: 6565, type: vmess, uuid: 82fd7d74-8055-41a0-9f5d-9a56ef302563, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: "355,358,376,569,572|未知95 10.7MB/s", server: 45.87.175.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
+  - {name: "355,358,376,569|LT-45.87.175.157-4869 | 28.422MB", server: 45.87.175.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
   - {name: "355,376|🇱🇹LT-45.87.175.188-1025 #1", server: 45.87.175.188, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
   - {name: 392|🇱🇹LT-85.206.165.38-0189, server: 85.206.165.38, port: 443, type: vmess, uuid: ba49ab05-78f8-4b0b-9400-1826cc2d3f75, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/191019072927, headers: {Host: www.83322971.xyz}}}
   - {name: 447|6aaZ5rivLTE, server: 139.159.148.72, port: 7037, type: ssr, cipher: chacha20-ietf, password: hmepTiqoMUPgha2BUc, protocol: auth_aes128_sha1, obfs: plain, protocol-param: MTM5NzA1NDI4MDo5M2M0YzNjMzEwODk0MTcy, obfs-param: Z2l0aHViLmNvbQ}
