@@ -1,25 +1,26 @@
-  - {name: 43|RU_91, server: 77.91.103.108, port: 15708, type: ss, cipher: chacha20-ietf-poly1305, password: GXGhsxweEyBgvyUc5Xaoae}
-  - {name: 54|RU_957, server: 194.87.69.42, port: 6090, type: vmess, uuid: a5fa5f80-a383-46aa-b589-86ef68b5820c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
-  - {name: 🇷🇺 19|🇷🇺_RU_俄罗斯联邦, server: 45.147.200.170, port: 35972, type: vmess, uuid: 6a2afda8-8798-434c-8964-1deb4e7655a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: "42,48|RU_535", server: get.fragmentary.info, port: 443, type: trojan, password: PU3f7528NtNXnQqb9X263rGSD, sni: get.fragmentary.info, skip-cert-verify: false, network: ws, ws-opts: {path: /socks5tobefree, headers: {Host: get.fragmentary.info}}}
-  - {name: "37,47|RU_3734", server: 109.120.176.218, port: 2096, type: ss, cipher: aes-128-gcm, password: X522OqAdyYS4HBeQ3Djjq7Ou1+MryMZFu4IRaNKcWF0=}
-  - {name: "🇷🇺 0,6,11,16,20,26,31,36,37|🇷🇺_RU_俄罗斯", server: 185.221.160.12, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip18.6929198.xyz}}}
-  - {name: 37|RU_3752, server: 192.124.176.87, port: 6090, type: vmess, uuid: a5fa5f80-a383-46aa-b589-86ef68b5820c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
-  - {name: "37,39,40|RU_3740", server: f41.maryam1500.top, port: 2098, type: vmess, uuid: 83876222-64a4-4912-aa18-b7d9d34959de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: f41.maryam1500.top, network: http, http-opts: {method: GET, path: [/], headers: {Host: [f41.maryam1500.top]}}}
-  - {name: "37,47|RU_3733", server: 5.182.38.211, port: 42658, type: ss, cipher: chacha20-ietf-poly1305, password: p0XqZ4Oiw2xZjPmVxzyg6PgL8vSajJ43Bb1ukJNnUT0kAkFOrqvWPxNl2xLSE0mw}
-  - {name: "🇷🇺 19|🇷🇺_RU_俄罗斯联邦 #1", server: 45.136.245.240, port: 12910, type: vmess, uuid: 8259cb1c-dd6c-4739-9c88-af550d977525, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
-  - {name: "38,59| RU_464", server: 46.29.238.83, port: 28768, type: ss, cipher: chacha20-ietf-poly1305, password: B4Nokj3Yqfta6tWqum6r8k}
-  - {name: "37,40,47|RU_3749", server: 185.247.184.115, port: 2098, type: vmess, uuid: 83876222-64a4-4912-aa18-b7d9d34959de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/]}}
-  - {name: "37,40|RU_3736", server: 213.108.22.109, port: 38753, type: ss, cipher: chacha20-ietf-poly1305, password: 6OAGLD+DOA6UcFp5Udf0r/UzyjwHV+yheNkoFDk6uL8=}
+  - {name: "47,49|🇷🇺RU_3395", server: 89.23.103.21, port: 51584, type: ss, cipher: chacha20-ietf-poly1305, password: oYQ8JwEldYn4KT2gfZ6eNl}
+  - {name: "37,38,39,40,47,49,59|RU_3484", server: 94.228.165.178, port: 58176, type: ss, cipher: chacha20-ietf-poly1305, password: afKAHp1VfRWZu91LIi9o0D}
+  - {name: "37,47|RU_3487", server: 109.120.176.218, port: 2096, type: ss, cipher: aes-128-gcm, password: X522OqAdyYS4HBeQ3Djjq7Ou1+MryMZFu4IRaNKcWF0=}
+  - {name: "37,42,47,54|RU_3494", server: 46.29.161.109, port: 6370, type: vmess, uuid: a5fa5f80-a383-46aa-b589-86ef68b5820c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
+  - {name: "🇷🇺 32,42,49|俄罗斯(mibei77.com 米贝节点分享)", server: 185.176.26.131, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: ip18.6929198.xyz, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip18.6929198.xyz}}}
+  - {name: 49|🇷🇺RU_635, server: 45.89.52.66, port: 9027, type: ss, cipher: aes-256-cfb, password: EXN3S3eQpjE7EJu8}
+  - {name: "37,42,47,54|RU_3499", server: 46.29.161.228, port: 6370, type: vmess, uuid: a5fa5f80-a383-46aa-b589-86ef68b5820c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
+  - {name: 47|🇷🇺RU_3407, server: 147.45.51.16, port: 2098, type: vmess, uuid: 83876222-64a4-4912-aa18-b7d9d34959de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/]}}
   - {name: 43|RU_90, server: 212.113.106.243, port: 12949, type: ss, cipher: chacha20-ietf-poly1305, password: P2zxXPewlV3BlfqqYiSthvtLc}
-  - {name: "38,40,47,49,54,59| RU_458", server: 5.35.47.122, port: 45635, type: ss, cipher: chacha20-ietf-poly1305, password: CLphyEMQT8nbG8EImX0A2D}
-  - {name: "37,38,40,47,49,59|RU_3737", server: 194.87.82.28, port: 12224, type: ss, cipher: chacha20-ietf-poly1305, password: 2fwufOmJ9ELfN4umzcHBfV}
-  - {name: "38,40,47,49,59| RU_461", server: 46.29.238.83, port: 44908, type: ss, cipher: chacha20-ietf-poly1305, password: DkK3bmkKh2rdK9k6EXSOQv}
-  - {name: 37|RU_3751, server: 176.32.32.68, port: 6370, type: vmess, uuid: a5fa5f80-a383-46aa-b589-86ef68b5820c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
-  - {name: "47,54|🇷🇺RU_3448", server: 147.45.51.16, port: 2098, type: vmess, uuid: 83876222-64a4-4912-aa18-b7d9d34959de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/]}}
+  - {name: "37,47|RU_3486", server: 5.182.38.211, port: 42658, type: ss, cipher: chacha20-ietf-poly1305, password: 6W3KNlsw77BkOmhv36B76iKeOzNiECcO1qvmpvP2yTXCuODvctTKgRTNqc5dPRLY}
+  - {name: "37,40|RU_3485", server: 213.108.22.109, port: 38753, type: ss, cipher: chacha20-ietf-poly1305, password: 6OAGLD+DOA6UcFp5Udf0r/UzyjwHV+yheNkoFDk6uL8=}
+  - {name: "🇷🇺 19|🇷🇺_RU_俄罗斯联邦 #1", server: 45.136.245.240, port: 12910, type: vmess, uuid: 8259cb1c-dd6c-4739-9c88-af550d977525, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
+  - {name: "🇷🇺 0,6,11,20,26,32,33,34,37,42,49,57|🇷🇺_RU_俄罗斯", server: 185.221.160.12, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /github.com/Alvin9999, headers: {Host: ip18.6929198.xyz}}}
+  - {name: "37,40,47|RU_3496", server: 185.247.184.115, port: 2098, type: vmess, uuid: 83876222-64a4-4912-aa18-b7d9d34959de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/]}}
+  - {name: 49|🇷🇺RU_636, server: 46.29.166.237, port: 47555, type: vmess, uuid: 0c49cd19-2758-4d38-e6a8-11f2d6635860, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: "37,42,47,54|Relay_RU-BG_3507", server: 89.169.55.152, port: 33026, type: vmess, uuid: 96627876-63f5-4ca7-9b41-a52fee0ca476, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: socks5tobefree.ydns.eu, network: ws, ws-opts: {path: /dangerzone}}
+  - {name: "42,47|RU_547", server: 176.32.32.68, port: 6370, type: vmess, uuid: a5fa5f80-a383-46aa-b589-86ef68b5820c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
+  - {name: "37,47|RU_3506", server: 194.87.69.42, port: 6090, type: vmess, uuid: a5fa5f80-a383-46aa-b589-86ef68b5820c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
+  - {name: "37,38,39,40,47,49,59|RU_3490", server: 45.89.52.66, port: 9065, type: ss, cipher: aes-256-cfb, password: PeHSHm5SqEjBuEXE}
+  - {name: 🇷🇺 19|🇷🇺_RU_俄罗斯联邦, server: 45.147.200.170, port: 35972, type: vmess, uuid: 6a2afda8-8798-434c-8964-1deb4e7655a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: "37,40|RU_3497", server: f41.maryam1500.top, port: 2098, type: vmess, uuid: 83876222-64a4-4912-aa18-b7d9d34959de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: f41.maryam1500.top, network: http, http-opts: {method: GET, path: [/], headers: {Host: [f41.maryam1500.top]}}}
+  - {name: 43|RU_91, server: 77.91.103.108, port: 15708, type: ss, cipher: chacha20-ietf-poly1305, password: GXGhsxweEyBgvyUc5Xaoae}
+  - {name: "47,49,51,59|🇷🇺 RU_3382", server: 5.35.47.122, port: 45635, type: ss, cipher: chacha20-ietf-poly1305, password: CLphyEMQT8nbG8EImX0A2D}
+  - {name: "38,51,59| RU_455", server: 46.29.238.83, port: 44908, type: ss, cipher: chacha20-ietf-poly1305, password: DkK3bmkKh2rdK9k6EXSOQv}
+  - {name: "38,39,40,44,51,59| RU_452", server: 46.29.238.83, port: 28768, type: ss, cipher: chacha20-ietf-poly1305, password: B4Nokj3Yqfta6tWqum6r8k}
   - {name: 43|RU_89, server: 212.113.106.243, port: 13022, type: ss, cipher: chacha20-ietf-poly1305, password: w5drAL7PfCIwQ2ycUuoDsV2Ls}
-  - {name: 59|🇷🇺 RU_491, server: 185.221.160.163, port: 443, type: vmess, uuid: 1052f24e-7b09-45eb-b0c5-d858eb124192, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: worker-mute-bar-1719.nifotok993.workers.dev, network: ws, ws-opts: {path: /glweidf.cfd/linkws}}
-  - {name: "37,38,40,47,49,54,59|RU_3738", server: 94.228.165.178, port: 58176, type: ss, cipher: chacha20-ietf-poly1305, password: afKAHp1VfRWZu91LIi9o0D}
-  - {name: "37,39,40,47,49,59|RU_3735", server: 45.89.52.66, port: 9065, type: ss, cipher: aes-256-cfb, password: PeHSHm5SqEjBuEXE}
-  - {name: "38,40,49,54,59| RU_465", server: 89.185.84.185, port: 52338, type: ss, cipher: chacha20-ietf-poly1305, password: aXuV8k5a4NFmkphgr5NTlL}
-  - {name: "37,49|RU_3748", server: 46.29.166.237, port: 47555, type: vmess, uuid: 0c49cd19-2758-4d38-e6a8-11f2d6635860, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
